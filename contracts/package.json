@@ -1,0 +1,14 @@
+{
+  "name": "aegis-contracts",
+  "version": "1.0.0",
+  "description": "AEGIS Parametric Insurance Smart Contracts",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
