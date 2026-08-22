@@ -1,0 +1,1001 @@
+bmi,age_group,sex,smoking_status,education_level,income_level,insurance_type,personal_doctor,diabetes,heart_attack,coronary_disease,heart_disease_composite,stroke,asthma,copd,kidney_disease,arthritis,physical_activity,medical_cost_barrier,high_risk_physical_health
+28.3,35-44,Male,Current smoker (some days),High School Graduate / GED,< $10k,Private / Self-purchased,"Yes, only one",0,0,0,0,1,0,0,0,1,1,1,0
+26.8,65+,Male,Never smoked,College Graduate (4+ yrs),$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,1
+23.6,65+,Female,Former smoker,High School Graduate / GED,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.6,18-24,Female,Current smoker (every day),High School Graduate / GED,$75k - $100k,Other Government,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+19.5,65+,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.9,65+,Female,Former smoker,High School Graduate / GED,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+26.5,55-64,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+31.3,65+,Female,Never smoked,Some High School (Grades 9-11),$20k - $25k,Employer / Union,"Yes, only one",0,1,0,1,0,1,0,0,0,0,0,0
+32.0,45-54,Male,Former smoker,Some College / Tech School,$50k - $75k,No Coverage,No personal doctor,1,0,0,0,0,0,1,0,0,0,0,1
+27.0,45-54,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+35.4,35-44,Female,Never smoked,High School Graduate / GED,$15k - $20k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,0,1,0
+39.9,45-54,Female,Current smoker (every day),High School Graduate / GED,$25k - $35k,Other Government,More than one,1,0,0,0,0,0,0,0,1,0,0,1
+29.0,45-54,Female,Former smoker,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,1,0,0,1,0,0
+32.7,55-64,Male,Never smoked,College Graduate (4+ yrs),Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+29.3,65+,Male,Former smoker,High School Graduate / GED,Unknown,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.1,65+,Male,Current smoker (some days),Elementary (Grades 1-8),$15k - $20k,Medicare,More than one,0,1,0,1,0,0,0,0,1,1,0,0
+32.6,35-44,Female,Never smoked,High School Graduate / GED,$25k - $35k,Medicaid,More than one,1,0,0,0,0,1,0,0,1,1,0,1
+25.8,45-54,Female,Former smoker,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.4,65+,Male,Former smoker,Some College / Tech School,$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,1,1,0,0
+22.3,65+,Male,Former smoker,Some College / Tech School,$25k - $35k,Military / VA / TRICARE,More than one,1,0,0,0,0,0,1,0,1,1,0,1
+21.5,55-64,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+29.4,25-34,Male,Former smoker,Some College / Tech School,$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+31.8,65+,Female,Former smoker,College Graduate (4+ yrs),$50k - $75k,Medicare,More than one,0,0,1,1,0,0,0,0,1,0,0,1
+28.3,65+,Female,Never smoked,High School Graduate / GED,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,1
+25.6,65+,Female,Current smoker (every day),High School Graduate / GED,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,1,0,1,0,0,1
+30.7,25-34,Male,Never smoked,College Graduate (4+ yrs),$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+33.7,35-44,Female,Current smoker (every day),Some College / Tech School,$75k - $100k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,1,0,0,0,0,0,0
+30.7,35-44,Male,Former smoker,High School Graduate / GED,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+34.0,18-24,Female,Never smoked,High School Graduate / GED,Unknown,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+24.2,25-34,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+25.1,18-24,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+25.1,25-34,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Female,Unknown,Some College / Tech School,$35k - $50k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,0,0,0
+23.5,45-54,Female,Former smoker,Some College / Tech School,$50k - $75k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.1,55-64,Male,Never smoked,College Graduate (4+ yrs),$50k - $75k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,1,1,1,0
+30.0,65+,Male,Former smoker,High School Graduate / GED,$75k - $100k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,0,0,0
+43.4,45-54,Male,Former smoker,Some High School (Grades 9-11),$100k - $150k,Private / Self-purchased,More than one,1,0,0,0,0,1,1,0,0,0,0,0
+21.4,65+,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,0
+28.5,18-24,Male,Never smoked,Some College / Tech School,Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+24.5,65+,Female,Never smoked,Some High School (Grades 9-11),$15k - $20k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,0
+22.7,55-64,Female,Never smoked,Some College / Tech School,$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+36.6,45-54,Male,Never smoked,High School Graduate / GED,$10k - $15k,State Sponsored,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,1
+37.2,65+,Male,Unknown,High School Graduate / GED,$25k - $35k,Unknown,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+28.5,65+,Female,Never smoked,High School Graduate / GED,$20k - $25k,Medicare,More than one,1,1,1,1,1,0,0,0,1,0,1,0
+33.0,45-54,Male,Current smoker (some days),High School Graduate / GED,$20k - $25k,State Sponsored,More than one,0,0,0,0,0,0,0,1,1,1,0,0
+30.4,65+,Male,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,"Yes, only one",0,0,1,1,0,0,0,0,1,1,0,0
+30.4,65+,Male,Former smoker,College Graduate (4+ yrs),$35k - $50k,Military / VA / TRICARE,More than one,1,1,0,1,0,0,0,1,1,1,0,0
+29.5,65+,Male,Never smoked,Unknown,Unknown,Medicare,More than one,0,0,0,0,0,0,1,0,1,1,0,0
+32.1,45-54,Male,Current smoker (some days),High School Graduate / GED,$10k - $15k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+33.5,55-64,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",1,0,0,0,0,1,0,0,0,1,0,0
+22.2,18-24,Male,Never smoked,Some College / Tech School,$200k+,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+21.5,45-54,Male,Former smoker,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,25-34,Male,Current smoker (every day),High School Graduate / GED,Unknown,Medicaid,No personal doctor,0,0,0,0,0,0,0,0,1,1,0,1
+30.6,65+,Female,Former smoker,College Graduate (4+ yrs),$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+27.4,25-34,Male,Unknown,College Graduate (4+ yrs),Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.8,65+,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+25.8,55-64,Female,Never smoked,High School Graduate / GED,Unknown,State Sponsored,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+36.0,25-34,Female,Never smoked,Some College / Tech School,Unknown,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,1
+28.3,65+,Female,Never smoked,College Graduate (4+ yrs),$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+33.3,65+,Female,Never smoked,Some College / Tech School,$35k - $50k,Medicare,More than one,1,0,0,0,0,0,0,0,0,0,0,0
+46.6,65+,Male,Current smoker (every day),High School Graduate / GED,$20k - $25k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,1
+29.4,55-64,Male,Former smoker,College Graduate (4+ yrs),Unknown,State Sponsored,"Yes, only one",0,0,0,0,0,1,1,0,1,1,1,0
+20.6,65+,Female,Never smoked,High School Graduate / GED,Unknown,Medicaid,"Yes, only one",0,0,0,0,0,0,1,0,0,1,0,0
+20.9,65+,Female,Former smoker,Some College / Tech School,$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+19.6,55-64,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+27.4,25-34,Male,Unknown,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+30.7,65+,Male,Never smoked,High School Graduate / GED,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+28.9,65+,Male,Former smoker,Some College / Tech School,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,0,1,1,1,0,0
+37.3,25-34,Female,Never smoked,College Graduate (4+ yrs),$10k - $15k,Private / Self-purchased,No personal doctor,1,0,0,0,0,0,0,0,0,0,0,0
+46.9,65+,Female,Unknown,Some College / Tech School,$20k - $25k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,1
+27.9,65+,Female,Never smoked,Some College / Tech School,$35k - $50k,Private / Self-purchased,More than one,1,0,0,0,0,0,0,0,0,0,0,0
+22.3,65+,Female,Current smoker (every day),Some College / Tech School,$15k - $20k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,1,0
+30.5,65+,Male,Never smoked,Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,0
+27.4,65+,Female,Current smoker (every day),Some College / Tech School,< $10k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,1,0,1,1
+18.8,55-64,Female,Never smoked,Some College / Tech School,$100k - $150k,Medicare,"Yes, only one",0,0,0,0,1,0,0,0,0,0,0,1
+22.8,65+,Female,Never smoked,College Graduate (4+ yrs),Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+31.0,65+,Male,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,"Yes, only one",0,0,0,0,1,0,0,0,1,0,0,0
+33.6,25-34,Female,Never smoked,Elementary (Grades 1-8),$10k - $15k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,0
+35.3,35-44,Male,Current smoker (every day),Some College / Tech School,$150k - $200k,No Coverage,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+26.6,65+,Female,Never smoked,Some College / Tech School,Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+25.0,18-24,Female,Never smoked,High School Graduate / GED,Unknown,Other Government,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+34.1,65+,Female,Never smoked,College Graduate (4+ yrs),Unknown,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,0,1,1,0
+43.1,35-44,Male,Never smoked,High School Graduate / GED,Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.8,55-64,Male,Former smoker,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Male,Former smoker,Some College / Tech School,$25k - $35k,Medicare,More than one,0,1,0,1,0,0,0,0,1,1,0,0
+25.8,45-54,Female,Former smoker,High School Graduate / GED,$20k - $25k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+27.0,55-64,Female,Never smoked,Some College / Tech School,$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,1,1,1,0,0
+26.1,35-44,Male,Never smoked,High School Graduate / GED,$15k - $20k,Unknown,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+25.0,45-54,Female,Former smoker,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.8,45-54,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+22.5,25-34,Male,Former smoker,Some College / Tech School,$35k - $50k,Medicaid,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,1
+27.4,18-24,Male,Never smoked,Unknown,Unknown,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,0
+25.8,25-34,Male,Never smoked,High School Graduate / GED,$50k - $75k,Private / Self-purchased,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+23.7,65+,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,State Sponsored,"Yes, only one",1,0,0,0,0,0,0,1,1,1,0,0
+34.9,45-54,Male,Never smoked,College Graduate (4+ yrs),Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Male,Former smoker,Some College / Tech School,$35k - $50k,Private / Self-purchased,More than one,0,1,1,1,0,0,0,1,0,1,0,0
+46.6,65+,Female,Never smoked,High School Graduate / GED,$35k - $50k,Medicare,"Yes, only one",1,0,0,0,0,0,0,1,1,0,0,1
+25.8,65+,Male,Never smoked,High School Graduate / GED,$25k - $35k,Unknown,More than one,0,0,0,0,0,0,0,0,0,0,1,1
+34.9,65+,Male,Former smoker,High School Graduate / GED,$50k - $75k,Medicare,More than one,0,0,1,1,0,0,1,0,1,0,0,1
+21.6,65+,Female,Current smoker (every day),High School Graduate / GED,$10k - $15k,Medicare,More than one,1,0,0,0,0,0,1,0,1,0,0,0
+32.7,35-44,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,0,0,1
+18.0,45-54,Male,Never smoked,High School Graduate / GED,$150k - $200k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+29.0,55-64,Male,Never smoked,High School Graduate / GED,$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+22.9,65+,Male,Former smoker,College Graduate (4+ yrs),Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.0,35-44,Female,Former smoker,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+37.6,65+,Male,Never smoked,Some College / Tech School,$50k - $75k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+24.5,45-54,Male,Never smoked,High School Graduate / GED,$25k - $35k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+38.0,25-34,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+20.6,65+,Female,Former smoker,College Graduate (4+ yrs),$50k - $75k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+32.6,45-54,Female,Former smoker,High School Graduate / GED,Unknown,Medicaid,"Yes, only one",1,1,0,1,0,0,0,1,1,0,0,1
+27.0,65+,Male,Former smoker,College Graduate (4+ yrs),$35k - $50k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,0
+22.2,18-24,Male,Never smoked,Some College / Tech School,Unknown,Private / Self-purchased,Unknown,0,0,0,0,0,0,0,0,0,1,0,0
+21.6,25-34,Female,Never smoked,Some College / Tech School,$35k - $50k,No Coverage,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+27.1,35-44,Male,Current smoker (every day),High School Graduate / GED,$35k - $50k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,0,1,0
+34.4,65+,Male,Former smoker,Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",1,0,0,0,0,1,0,0,1,0,0,0
+24.2,18-24,Male,Never smoked,High School Graduate / GED,Unknown,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,25-34,Male,Unknown,Some High School (Grades 9-11),Unknown,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+29.0,65+,Female,Never smoked,College Graduate (4+ yrs),Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+33.2,65+,Male,Former smoker,College Graduate (4+ yrs),$75k - $100k,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,1,0,0,1,1,0,0
+28.0,65+,Male,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.5,25-34,Female,Never smoked,College Graduate (4+ yrs),$35k - $50k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+24.7,55-64,Male,Never smoked,Some High School (Grades 9-11),< $10k,Medicaid,"Yes, only one",1,1,0,1,0,0,0,1,1,0,0,1
+27.4,18-24,Female,Never smoked,High School Graduate / GED,< $10k,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Female,Never smoked,High School Graduate / GED,Unknown,Medicare,More than one,0,0,0,0,0,0,0,0,1,0,0,1
+23.5,65+,Male,Current smoker (some days),High School Graduate / GED,$25k - $35k,Medicare,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+31.9,35-44,Male,Current smoker (every day),High School Graduate / GED,$200k+,Employer / Union,More than one,1,0,0,0,0,0,0,0,0,1,0,1
+36.6,45-54,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+23.5,35-44,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,1,1,0,0,1,1,0
+36.5,55-64,Female,Current smoker (some days),Some College / Tech School,$35k - $50k,Employer / Union,No personal doctor,1,0,0,0,0,1,1,0,1,0,0,0
+40.2,55-64,Male,Former smoker,Some College / Tech School,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,1
+33.6,65+,Male,Former smoker,Some High School (Grades 9-11),Unknown,Medicare,More than one,0,1,0,1,0,1,0,0,1,1,0,0
+24.8,35-44,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+32.6,45-54,Male,Current smoker (every day),Some College / Tech School,$75k - $100k,Employer / Union,"Yes, only one",1,0,0,0,0,0,1,0,1,1,0,0
+30.4,18-24,Male,Never smoked,High School Graduate / GED,$20k - $25k,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+33.9,35-44,Male,Never smoked,High School Graduate / GED,$75k - $100k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+21.9,25-34,Male,Never smoked,Some College / Tech School,$35k - $50k,Employer / Union,Unknown,0,0,0,0,0,0,0,0,0,0,0,0
+28.3,65+,Female,Never smoked,High School Graduate / GED,$15k - $20k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+30.0,45-54,Male,Former smoker,Some College / Tech School,$50k - $75k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+20.4,25-34,Male,Never smoked,High School Graduate / GED,Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,1
+28.7,65+,Male,Former smoker,College Graduate (4+ yrs),Unknown,Medicare,"Yes, only one",0,0,1,1,0,0,0,1,1,1,0,0
+27.4,55-64,Female,Current smoker (every day),High School Graduate / GED,Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+33.7,65+,Male,Never smoked,High School Graduate / GED,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+20.4,35-44,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+20.9,18-24,Male,Never smoked,High School Graduate / GED,Unknown,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,18-24,Male,Never smoked,High School Graduate / GED,Unknown,Employer / Union,"Yes, only one",0,1,0,1,0,0,0,0,0,1,1,0
+23.0,65+,Female,Never smoked,High School Graduate / GED,$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.5,65+,Male,Never smoked,Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,1,0,1,0,0,0
+24.9,65+,Female,Never smoked,Some College / Tech School,$50k - $75k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+28.8,65+,Female,Never smoked,College Graduate (4+ yrs),$25k - $35k,Medicare,More than one,0,1,1,1,1,1,1,1,1,0,0,1
+26.6,65+,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.0,65+,Female,Former smoker,High School Graduate / GED,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,1,0,1,0,0,0
+41.2,45-54,Female,Former smoker,Some College / Tech School,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,1,0
+30.5,45-54,Male,Never smoked,Some College / Tech School,$75k - $100k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+22.1,55-64,Female,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.4,45-54,Male,Never smoked,Some College / Tech School,$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+28.4,35-44,Female,Never smoked,High School Graduate / GED,< $10k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+27.4,55-64,Female,Former smoker,High School Graduate / GED,$25k - $35k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+30.0,18-24,Male,Never smoked,High School Graduate / GED,Unknown,Employer / Union,No personal doctor,0,0,0,0,0,1,0,0,0,1,0,0
+27.4,18-24,Female,Never smoked,Some College / Tech School,Unknown,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+17.5,35-44,Male,Unknown,Some College / Tech School,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+30.5,65+,Male,Former smoker,College Graduate (4+ yrs),$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+34.7,65+,Male,Current smoker (every day),College Graduate (4+ yrs),$75k - $100k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+47.8,65+,Female,Never smoked,Some College / Tech School,$15k - $20k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,0,1,0
+25.6,65+,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Private / Self-purchased,More than one,1,0,0,0,1,0,0,1,0,1,0,0
+27.4,55-64,Female,Never smoked,Unknown,Unknown,State Sponsored,"Yes, only one",0,0,0,0,0,1,0,0,0,0,0,0
+27.4,65+,Female,Never smoked,Some College / Tech School,Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+30.4,55-64,Female,Former smoker,High School Graduate / GED,$35k - $50k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,1,1
+23.3,55-64,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+33.2,65+,Female,Never smoked,Some College / Tech School,$50k - $75k,Medicare,More than one,1,0,0,0,1,0,0,1,1,1,0,0
+23.2,65+,Female,Former smoker,High School Graduate / GED,$50k - $75k,Medicare,More than one,0,0,0,0,1,0,0,0,0,1,0,0
+23.1,65+,Male,Never smoked,Some College / Tech School,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+20.5,65+,Female,Former smoker,High School Graduate / GED,$15k - $20k,Medicare,More than one,0,0,1,1,0,0,1,1,1,0,0,1
+25.4,65+,Female,Never smoked,High School Graduate / GED,Unknown,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+29.0,25-34,Male,Former smoker,Some College / Tech School,$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,1
+28.9,65+,Male,Former smoker,Some High School (Grades 9-11),Unknown,Medicare,"Yes, only one",0,1,1,1,0,0,0,0,0,0,0,0
+24.2,65+,Female,Never smoked,College Graduate (4+ yrs),Unknown,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+33.0,18-24,Male,Never smoked,Some College / Tech School,$50k - $75k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+30.0,65+,Male,Former smoker,College Graduate (4+ yrs),Unknown,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+24.1,65+,Female,Former smoker,Some College / Tech School,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+29.8,45-54,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.0,45-54,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Male,Unknown,College Graduate (4+ yrs),Unknown,Military / VA / TRICARE,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+30.0,65+,Female,Never smoked,High School Graduate / GED,$25k - $35k,Employer / Union,More than one,0,0,0,0,0,1,0,0,1,0,0,0
+33.0,35-44,Male,Unknown,Some College / Tech School,$35k - $50k,Military / VA / TRICARE,Unknown,0,0,0,0,0,0,0,0,1,1,0,0
+20.0,65+,Female,Current smoker (some days),High School Graduate / GED,$35k - $50k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+22.3,65+,Female,Never smoked,Some College / Tech School,$15k - $20k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,0,1,0
+31.4,45-54,Male,Never smoked,High School Graduate / GED,$25k - $35k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,0,0,0,0
+24.4,55-64,Male,Former smoker,High School Graduate / GED,$25k - $35k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+24.5,35-44,Male,Never smoked,Some College / Tech School,$50k - $75k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+66.1,55-64,Male,Never smoked,High School Graduate / GED,Unknown,No Coverage,More than one,1,0,0,0,0,0,0,0,1,0,1,1
+35.2,55-64,Male,Current smoker (every day),Some College / Tech School,$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,1,1,0,0,0,0,0
+22.9,65+,Female,Never smoked,Some College / Tech School,$20k - $25k,Medicare,More than one,1,0,0,0,0,0,0,0,1,1,1,1
+46.7,65+,Female,Former smoker,High School Graduate / GED,$15k - $20k,Medicare,More than one,1,0,0,0,0,0,0,1,1,0,0,1
+23.3,65+,Female,Never smoked,High School Graduate / GED,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+27.4,25-34,Female,Never smoked,College Graduate (4+ yrs),< $10k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+27.4,25-34,Female,Never smoked,Some High School (Grades 9-11),Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+28.3,65+,Male,Never smoked,Some College / Tech School,Unknown,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+22.7,45-54,Male,Never smoked,Some College / Tech School,$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,1,0,1,0,1
+43.3,55-64,Female,Current smoker (every day),Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,1,1,1,0,1,1
+42.3,65+,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,More than one,1,0,0,0,0,1,1,0,1,0,0,1
+26.4,35-44,Female,Never smoked,College Graduate (4+ yrs),$20k - $25k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.8,65+,Female,Former smoker,Some College / Tech School,$100k - $150k,Medicare,More than one,0,0,0,0,0,0,0,0,1,0,0,1
+30.0,18-24,Female,Never smoked,Some College / Tech School,$75k - $100k,Unknown,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+30.4,65+,Male,Never smoked,Some College / Tech School,$50k - $75k,Medicaid,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+22.2,18-24,Male,Never smoked,High School Graduate / GED,$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+28.5,45-54,Male,Never smoked,Some College / Tech School,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+21.1,65+,Female,Never smoked,Some College / Tech School,Unknown,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+31.0,55-64,Male,Never smoked,Some College / Tech School,$35k - $50k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+37.7,55-64,Female,Never smoked,Some College / Tech School,$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+25.8,45-54,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+29.8,65+,Female,Never smoked,Some College / Tech School,$25k - $35k,Employer / Union,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+46.4,65+,Male,Unknown,Never attended / Kindergarten,$150k - $200k,Medicare,More than one,1,0,0,0,0,1,0,1,1,0,1,0
+32.3,45-54,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+30.5,65+,Male,Former smoker,High School Graduate / GED,$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,1
+31.8,35-44,Female,Current smoker (some days),Some College / Tech School,$15k - $20k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+41.2,55-64,Female,Former smoker,College Graduate (4+ yrs),$50k - $75k,Private / Self-purchased,More than one,1,1,1,1,1,1,1,0,1,0,1,1
+32.2,65+,Female,Current smoker (every day),High School Graduate / GED,$25k - $35k,Medicaid,"Yes, only one",0,0,1,1,0,0,1,0,1,0,0,0
+25.1,45-54,Male,Current smoker (every day),Some College / Tech School,$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+36.8,55-64,Female,Former smoker,High School Graduate / GED,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,1,0,0,0
+23.7,25-34,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+20.7,35-44,Male,Current smoker (every day),Some High School (Grades 9-11),< $10k,Medicaid,No personal doctor,0,1,0,1,0,1,0,0,0,1,0,0
+27.4,35-44,Male,Current smoker (every day),Some College / Tech School,$35k - $50k,Employer / Union,No personal doctor,0,0,0,0,0,1,0,0,0,1,0,0
+28.7,65+,Female,Former smoker,Some College / Tech School,$75k - $100k,Medicare,More than one,0,0,1,1,0,0,0,0,1,0,0,1
+26.6,35-44,Female,Former smoker,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Female,Unknown,Some High School (Grades 9-11),Unknown,State Sponsored,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+33.2,55-64,Male,Unknown,College Graduate (4+ yrs),$100k - $150k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+33.7,18-24,Female,Never smoked,High School Graduate / GED,$50k - $75k,State Sponsored,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,55-64,Female,Former smoker,Some College / Tech School,$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+24.4,65+,Female,Former smoker,High School Graduate / GED,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,1,1,0,1,0,0,0
+22.8,65+,Male,Former smoker,College Graduate (4+ yrs),$100k - $150k,Medicare,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+27.4,45-54,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+24.5,65+,Female,Former smoker,High School Graduate / GED,$50k - $75k,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+27.3,65+,Female,Unknown,Some College / Tech School,$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+24.3,35-44,Female,Never smoked,College Graduate (4+ yrs),$25k - $35k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+42.9,65+,Female,Never smoked,Elementary (Grades 1-8),Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+27.4,25-34,Female,Never smoked,Some College / Tech School,Unknown,Other Government,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,0
+29.5,45-54,Male,Former smoker,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.8,65+,Male,Former smoker,High School Graduate / GED,$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+32.9,18-24,Male,Never smoked,Some College / Tech School,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+36.3,25-34,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,Other Government,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+29.3,55-64,Female,Former smoker,High School Graduate / GED,$35k - $50k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+37.0,55-64,Female,Current smoker (some days),High School Graduate / GED,$25k - $35k,Medicaid,More than one,0,0,0,0,0,1,1,0,0,0,0,0
+26.7,45-54,Female,Former smoker,Some College / Tech School,$25k - $35k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+23.2,65+,Female,Former smoker,College Graduate (4+ yrs),$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,1
+27.4,35-44,Female,Current smoker (every day),Some College / Tech School,$10k - $15k,Medicaid,More than one,0,0,0,0,0,1,1,0,1,0,0,1
+20.6,65+,Female,Former smoker,Some College / Tech School,$25k - $35k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+25.1,65+,Male,Current smoker (some days),Some College / Tech School,$35k - $50k,State Sponsored,"Yes, only one",0,0,0,0,0,0,1,0,0,1,0,1
+24.2,65+,Male,Former smoker,College Graduate (4+ yrs),$15k - $20k,Other Government,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+24.3,55-64,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,1,0,1,1,0,0
+20.4,25-34,Female,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,0
+34.7,65+,Male,Never smoked,High School Graduate / GED,$20k - $25k,Medicaid,"Yes, only one",1,0,0,0,0,1,0,0,1,1,0,0
+29.2,55-64,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Indian Health Service,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+21.0,55-64,Female,Unknown,Some College / Tech School,Unknown,Unknown,No personal doctor,0,0,0,0,0,0,0,0,1,1,0,0
+28.9,65+,Male,Never smoked,High School Graduate / GED,$75k - $100k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+29.2,65+,Male,Never smoked,College Graduate (4+ yrs),$25k - $35k,Medicare,"Yes, only one",0,0,1,1,0,0,0,0,0,1,0,0
+36.7,65+,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",1,1,1,1,0,0,0,0,1,1,0,1
+21.7,55-64,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+35.0,65+,Female,Never smoked,High School Graduate / GED,$50k - $75k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+29.0,65+,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,More than one,0,0,0,0,0,1,0,0,1,1,0,0
+27.4,55-64,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+22.2,35-44,Male,Former smoker,Some College / Tech School,$75k - $100k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+28.4,35-44,Male,Never smoked,Some College / Tech School,$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+20.3,25-34,Male,Current smoker (some days),High School Graduate / GED,$15k - $20k,State Sponsored,"Yes, only one",0,0,0,0,0,1,0,1,0,1,0,0
+20.5,35-44,Female,Former smoker,Some College / Tech School,$100k - $150k,Employer / Union,More than one,0,0,0,0,0,1,0,0,1,1,0,0
+39.2,45-54,Male,Former smoker,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,0,0,0
+29.6,35-44,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+23.7,45-54,Male,Never smoked,College Graduate (4+ yrs),$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Female,Never smoked,Elementary (Grades 1-8),$10k - $15k,No Coverage,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+27.6,35-44,Male,Never smoked,Some College / Tech School,$50k - $75k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,1,1,0,0,0
+24.3,55-64,Female,Never smoked,Some College / Tech School,$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+26.5,35-44,Male,Current smoker (every day),Some College / Tech School,$25k - $35k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,0,1,0
+24.4,18-24,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+31.7,35-44,Male,Never smoked,High School Graduate / GED,$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+48.1,45-54,Female,Never smoked,High School Graduate / GED,$50k - $75k,Unknown,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+40.4,65+,Female,Former smoker,Some College / Tech School,$35k - $50k,Medicare,More than one,0,0,0,0,0,1,0,1,0,0,0,0
+28.7,55-64,Male,Former smoker,College Graduate (4+ yrs),$50k - $75k,Private / Self-purchased,More than one,0,0,1,1,0,0,1,0,1,1,0,0
+25.8,35-44,Male,Current smoker (every day),High School Graduate / GED,Unknown,Medicaid,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+29.8,25-34,Male,Never smoked,Some College / Tech School,$25k - $35k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+28.9,45-54,Female,Never smoked,College Graduate (4+ yrs),$35k - $50k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,0,1,0
+27.4,55-64,Female,Unknown,Unknown,Unknown,Medicare,More than one,0,0,0,0,0,0,0,0,0,0,1,1
+21.6,55-64,Female,Former smoker,College Graduate (4+ yrs),$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+22.4,65+,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,More than one,0,0,0,0,0,0,0,1,1,1,0,0
+26.8,35-44,Male,Former smoker,Some College / Tech School,$75k - $100k,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+48.8,25-34,Male,Never smoked,Some College / Tech School,$35k - $50k,No Coverage,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+27.8,35-44,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+30.7,45-54,Female,Former smoker,Some College / Tech School,$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+32.3,25-34,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+24.2,65+,Female,Never smoked,Some High School (Grades 9-11),$20k - $25k,Medicare,"Yes, only one",1,1,1,1,0,0,0,0,0,1,0,1
+32.1,35-44,Female,Former smoker,High School Graduate / GED,$75k - $100k,State Sponsored,No personal doctor,0,0,0,0,0,0,1,0,1,1,1,0
+39.8,45-54,Male,Current smoker (every day),High School Graduate / GED,$100k - $150k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+26.3,65+,Male,Former smoker,College Graduate (4+ yrs),$150k - $200k,Medicare,"Yes, only one",1,0,1,1,0,0,0,0,1,1,0,0
+23.6,65+,Male,Never smoked,College Graduate (4+ yrs),$50k - $75k,Employer / Union,More than one,1,0,0,0,0,0,0,0,1,1,0,0
+26.6,55-64,Female,Former smoker,Some College / Tech School,$150k - $200k,No Coverage,"Yes, only one",1,0,0,0,0,0,0,0,0,1,1,0
+27.4,65+,Female,Unknown,Some College / Tech School,Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,1
+23.9,18-24,Female,Never smoked,High School Graduate / GED,$10k - $15k,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.4,65+,Male,Never smoked,High School Graduate / GED,Unknown,Medicare,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+16.7,65+,Female,Current smoker (every day),Some College / Tech School,$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,1,0,0,1,0,0
+31.9,18-24,Female,Never smoked,High School Graduate / GED,Unknown,Medicaid,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+23.6,65+,Male,Never smoked,High School Graduate / GED,Unknown,Medicaid,More than one,1,0,0,0,1,0,0,0,0,1,0,1
+27.4,45-54,Female,Unknown,Some College / Tech School,Unknown,Employer / Union,More than one,0,0,0,0,0,1,0,0,1,1,0,0
+34.3,55-64,Male,Former smoker,High School Graduate / GED,$35k - $50k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.0,45-54,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.8,65+,Female,Former smoker,College Graduate (4+ yrs),$35k - $50k,Employer / Union,More than one,0,0,0,0,0,1,1,1,0,0,0,1
+27.4,65+,Female,Unknown,High School Graduate / GED,$75k - $100k,Medicare,More than one,1,0,0,0,0,0,0,0,1,0,0,0
+26.6,65+,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,1,1,0,0
+25.8,65+,Female,Former smoker,Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+19.6,65+,Female,Never smoked,College Graduate (4+ yrs),$200k+,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.7,65+,Female,Never smoked,Some College / Tech School,$50k - $75k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+28.0,65+,Female,Former smoker,Some College / Tech School,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+25.9,65+,Male,Never smoked,College Graduate (4+ yrs),$200k+,Medicare,"Yes, only one",0,0,0,0,0,0,0,1,0,1,0,0
+32.3,45-54,Female,Never smoked,College Graduate (4+ yrs),$25k - $35k,No Coverage,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,1
+32.4,45-54,Female,Never smoked,Elementary (Grades 1-8),$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+27.4,18-24,Male,Unknown,Some College / Tech School,Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.4,65+,Male,Never smoked,Some College / Tech School,$35k - $50k,Medicare,More than one,0,0,0,0,0,1,1,0,1,1,0,0
+23.8,25-34,Male,Never smoked,Some College / Tech School,Unknown,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+22.0,65+,Female,Never smoked,Some College / Tech School,Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+32.9,35-44,Female,Current smoker (every day),Some College / Tech School,$25k - $35k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,1,0
+37.6,45-54,Female,Never smoked,Some College / Tech School,$10k - $15k,Unknown,"Yes, only one",0,0,0,0,0,1,1,0,0,1,0,0
+28.1,65+,Female,Former smoker,Some College / Tech School,Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+24.4,65+,Female,Never smoked,Some College / Tech School,$100k - $150k,Other Government,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+27.4,18-24,Female,Never smoked,Some College / Tech School,$35k - $50k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+26.8,55-64,Male,Never smoked,College Graduate (4+ yrs),Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+29.0,45-54,Male,Never smoked,High School Graduate / GED,$35k - $50k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+25.6,45-54,Female,Never smoked,Some High School (Grades 9-11),$20k - $25k,No Coverage,No personal doctor,0,1,1,1,0,0,0,0,0,1,0,1
+26.6,65+,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,0,0,0,0
+27.4,55-64,Female,Never smoked,Never attended / Kindergarten,Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+24.4,45-54,Male,Unknown,Some College / Tech School,$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,35-44,Male,Unknown,High School Graduate / GED,Unknown,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+43.0,45-54,Male,Unknown,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+25.8,65+,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+26.1,65+,Male,Never smoked,Some College / Tech School,$75k - $100k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+26.4,65+,Female,Former smoker,College Graduate (4+ yrs),$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,1,1,0,0
+28.2,65+,Male,Former smoker,Some College / Tech School,$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+19.9,25-34,Female,Unknown,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+31.6,35-44,Male,Never smoked,High School Graduate / GED,$25k - $35k,No Coverage,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+27.1,55-64,Female,Current smoker (some days),High School Graduate / GED,< $10k,Medicaid,"Yes, only one",0,0,0,0,1,0,1,0,1,0,0,0
+27.4,45-54,Female,Unknown,College Graduate (4+ yrs),Unknown,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.6,45-54,Female,Former smoker,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,1,0
+36.8,65+,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Medicare,More than one,0,0,1,1,0,0,0,0,1,1,0,0
+21.7,65+,Female,Never smoked,College Graduate (4+ yrs),$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,1,0,1,1,0,0
+26.6,65+,Male,Former smoker,High School Graduate / GED,Unknown,Medicare,"Yes, only one",0,0,1,1,0,0,0,1,1,1,1,0
+24.4,65+,Male,Former smoker,High School Graduate / GED,Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+24.2,18-24,Male,Never smoked,College Graduate (4+ yrs),$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+41.0,65+,Female,Never smoked,High School Graduate / GED,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+24.2,65+,Female,Never smoked,Some College / Tech School,Unknown,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+21.1,35-44,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,55-64,Female,Former smoker,Some College / Tech School,$75k - $100k,Unknown,More than one,0,0,0,0,0,1,1,0,1,0,0,1
+24.4,55-64,Male,Former smoker,High School Graduate / GED,$15k - $20k,Other Government,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+25.7,65+,Male,Former smoker,High School Graduate / GED,$25k - $35k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+30.1,65+,Male,Former smoker,High School Graduate / GED,$35k - $50k,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+29.3,65+,Female,Never smoked,Some College / Tech School,$50k - $75k,Medicare,More than one,1,0,0,0,0,0,0,0,1,1,0,1
+27.4,45-54,Female,Unknown,College Graduate (4+ yrs),Unknown,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+26.6,55-64,Female,Never smoked,Some College / Tech School,$150k - $200k,Military / VA / TRICARE,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+22.7,25-34,Female,Unknown,Some High School (Grades 9-11),Unknown,Medicaid,No personal doctor,0,0,0,0,0,1,0,0,0,1,1,1
+20.5,25-34,Male,Never smoked,High School Graduate / GED,$50k - $75k,Private / Self-purchased,No personal doctor,1,0,0,0,0,0,0,0,0,1,0,0
+26.3,65+,Female,Former smoker,Some College / Tech School,Unknown,No Coverage,No personal doctor,0,1,1,1,0,0,0,0,0,1,0,0
+43.3,65+,Female,Former smoker,College Graduate (4+ yrs),Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,1,0,0,0
+27.9,55-64,Male,Former smoker,College Graduate (4+ yrs),$50k - $75k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,35-44,Female,Unknown,Some College / Tech School,Unknown,Other Government,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Male,Former smoker,High School Graduate / GED,Unknown,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Male,Unknown,College Graduate (4+ yrs),Unknown,Medicare,"Yes, only one",1,0,0,0,1,1,0,1,1,1,0,0
+18.3,65+,Female,Never smoked,College Graduate (4+ yrs),Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.5,35-44,Male,Former smoker,College Graduate (4+ yrs),Unknown,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+21.4,25-34,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Unknown,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Male,Unknown,Some College / Tech School,Unknown,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+39.0,65+,Male,Never smoked,Some College / Tech School,$35k - $50k,Medicare,"Yes, only one",1,0,0,0,0,1,0,0,0,1,0,0
+23.4,35-44,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+21.9,65+,Female,Never smoked,College Graduate (4+ yrs),$25k - $35k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,1,0
+27.4,65+,Female,Current smoker (every day),Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,1,0,1,1,0,0
+26.4,45-54,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicaid,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+29.0,35-44,Female,Never smoked,College Graduate (4+ yrs),$15k - $20k,Medicaid,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+35.4,45-54,Male,Unknown,High School Graduate / GED,$25k - $35k,State Sponsored,"Yes, only one",0,0,0,0,0,1,0,0,1,1,0,0
+33.9,45-54,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,No personal doctor,0,1,1,1,0,0,0,0,0,1,0,0
+30.5,65+,Male,Never smoked,Some College / Tech School,$75k - $100k,Medicare,More than one,0,0,0,0,1,0,0,1,1,1,0,0
+19.7,65+,Female,Never smoked,Some College / Tech School,Unknown,Medicare,No personal doctor,0,0,0,0,0,0,0,0,1,1,0,0
+24.0,65+,Male,Former smoker,Some College / Tech School,$25k - $35k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+19.5,65+,Male,Never smoked,College Graduate (4+ yrs),$200k+,Medicare,More than one,0,0,0,0,1,0,0,0,1,1,0,0
+22.1,18-24,Female,Never smoked,High School Graduate / GED,< $10k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,0,1,1
+29.3,65+,Female,Current smoker (every day),Some High School (Grades 9-11),Unknown,Medicare,More than one,0,0,0,0,0,0,1,0,0,0,0,1
+25.0,55-64,Female,Current smoker (every day),High School Graduate / GED,$35k - $50k,Employer / Union,More than one,1,0,0,0,0,0,0,0,0,1,0,0
+25.8,45-54,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+27.6,65+,Female,Never smoked,Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+27.5,45-54,Female,Current smoker (every day),College Graduate (4+ yrs),$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,1,0,1,0,0,0
+30.1,65+,Female,Never smoked,High School Graduate / GED,$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,1
+22.0,35-44,Male,Current smoker (every day),Some College / Tech School,$35k - $50k,No Coverage,No personal doctor,0,1,0,1,0,0,0,0,0,1,1,1
+27.3,65+,Male,Never smoked,Some College / Tech School,$150k - $200k,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+42.1,55-64,Female,Never smoked,College Graduate (4+ yrs),Unknown,No Coverage,"Yes, only one",1,0,0,0,0,1,0,0,0,1,1,1
+18.6,65+,Female,Former smoker,Some College / Tech School,$50k - $75k,Medicare,More than one,0,0,1,1,0,0,0,0,1,1,0,0
+31.2,65+,Female,Never smoked,Some College / Tech School,$35k - $50k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+25.5,55-64,Female,Former smoker,College Graduate (4+ yrs),Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,1,0,0,0,1,1,0,0
+32.0,45-54,Female,Unknown,Some College / Tech School,$25k - $35k,Medicaid,More than one,0,1,1,1,0,1,0,0,1,0,0,1
+27.4,35-44,Male,Unknown,College Graduate (4+ yrs),Unknown,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+23.3,35-44,Female,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+25.7,55-64,Male,Never smoked,Some College / Tech School,$150k - $200k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+25.8,25-34,Male,Never smoked,Some College / Tech School,$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+42.9,25-34,Female,Never smoked,College Graduate (4+ yrs),$35k - $50k,Medicaid,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+24.4,25-34,Male,Current smoker (every day),Some College / Tech School,$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.9,65+,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+19.8,55-64,Female,Current smoker (every day),High School Graduate / GED,$25k - $35k,Employer / Union,"Yes, only one",1,0,0,0,0,0,1,0,1,0,0,0
+24.3,18-24,Male,Never smoked,High School Graduate / GED,$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+37.1,55-64,Female,Current smoker (every day),High School Graduate / GED,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,1,0,0,0,0,0
+18.5,55-64,Female,Never smoked,Unknown,Unknown,Unknown,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+35.0,35-44,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+21.3,65+,Male,Former smoker,Elementary (Grades 1-8),$25k - $35k,Medicare,No personal doctor,1,0,0,0,0,0,0,0,0,1,1,0
+40.0,35-44,Male,Never smoked,High School Graduate / GED,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+28.3,35-44,Male,Current smoker (some days),College Graduate (4+ yrs),< $10k,Medicare,No personal doctor,0,0,0,0,0,0,0,0,0,0,1,1
+23.0,45-54,Male,Current smoker (some days),College Graduate (4+ yrs),Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.8,45-54,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+26.3,35-44,Male,Never smoked,Some College / Tech School,$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+24.4,35-44,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+30.8,55-64,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.5,45-54,Female,Former smoker,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+25.8,55-64,Male,Never smoked,High School Graduate / GED,$200k+,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Female,Never smoked,High School Graduate / GED,Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.6,35-44,Female,Former smoker,High School Graduate / GED,$50k - $75k,Medicaid,More than one,0,0,0,0,0,1,0,0,1,1,1,1
+21.2,65+,Female,Never smoked,Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",0,0,1,1,0,0,0,1,1,1,0,0
+39.0,65+,Female,Never smoked,College Graduate (4+ yrs),$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,0
+41.6,25-34,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+40.4,65+,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+25.1,65+,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,More than one,0,0,1,1,0,0,0,0,0,1,0,0
+24.9,45-54,Female,Never smoked,Some College / Tech School,$50k - $75k,No Coverage,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+34.3,35-44,Female,Former smoker,Some College / Tech School,$75k - $100k,No Coverage,More than one,0,0,0,0,0,1,0,0,0,1,1,0
+21.3,65+,Female,Unknown,College Graduate (4+ yrs),Unknown,Medicare,Unknown,0,0,0,0,0,0,0,0,1,1,0,0
+27.8,45-54,Female,Never smoked,Some College / Tech School,$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,1
+42.8,55-64,Female,Never smoked,Some College / Tech School,$150k - $200k,Military / VA / TRICARE,"Yes, only one",1,0,0,0,0,0,0,0,1,0,0,0
+24.7,25-34,Male,Never smoked,College Graduate (4+ yrs),Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+35.0,55-64,Female,Former smoker,Some College / Tech School,$15k - $20k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,1,1
+27.4,35-44,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.0,65+,Male,Unknown,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",1,1,0,1,0,0,0,0,0,0,0,0
+23.8,25-34,Male,Never smoked,High School Graduate / GED,$100k - $150k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+25.8,18-24,Female,Never smoked,Some College / Tech School,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,0,0,0
+26.6,25-34,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+32.1,65+,Male,Unknown,Some College / Tech School,$35k - $50k,Military / VA / TRICARE,More than one,1,0,0,0,0,0,0,0,0,1,0,0
+25.8,55-64,Male,Never smoked,High School Graduate / GED,$20k - $25k,State Sponsored,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+25.0,65+,Male,Former smoker,Some College / Tech School,Unknown,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+30.0,65+,Male,Former smoker,Some College / Tech School,Unknown,Medicare,No personal doctor,0,0,0,0,1,0,1,0,0,1,0,0
+31.2,25-34,Male,Current smoker (every day),Some College / Tech School,$100k - $150k,No Coverage,No personal doctor,0,0,0,0,0,1,0,0,0,1,0,1
+27.3,65+,Female,Never smoked,Some College / Tech School,$35k - $50k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+19.7,45-54,Female,Never smoked,College Graduate (4+ yrs),$25k - $35k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,35-44,Female,Former smoker,Some College / Tech School,$35k - $50k,State Sponsored,More than one,0,0,0,0,0,1,1,0,0,0,0,1
+36.3,25-34,Female,Never smoked,Elementary (Grades 1-8),Unknown,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,0
+27.0,65+,Female,Never smoked,Some College / Tech School,Unknown,Medicare,More than one,1,0,0,0,0,0,0,1,1,1,0,1
+24.9,65+,Female,Never smoked,High School Graduate / GED,$15k - $20k,Medicare,More than one,1,0,1,1,0,0,0,1,0,1,0,0
+23.4,65+,Female,Never smoked,Some College / Tech School,$35k - $50k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,0
+22.3,65+,Male,Former smoker,Some College / Tech School,Unknown,Medicare,"Yes, only one",0,1,1,1,1,0,0,0,1,0,0,0
+21.7,65+,Male,Former smoker,College Graduate (4+ yrs),$200k+,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+30.7,25-34,Female,Never smoked,Some College / Tech School,$25k - $35k,Indian Health Service,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+29.5,55-64,Female,Former smoker,Some College / Tech School,$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+33.1,65+,Female,Former smoker,College Graduate (4+ yrs),$150k - $200k,Medicare,More than one,0,0,0,0,0,0,0,0,1,0,0,0
+24.4,45-54,Male,Former smoker,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.6,65+,Female,Never smoked,Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+24.7,65+,Female,Former smoker,High School Graduate / GED,Unknown,Medicare,More than one,0,1,0,1,1,0,1,1,1,1,0,0
+24.4,35-44,Male,Current smoker (every day),Some College / Tech School,Unknown,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.2,35-44,Male,Former smoker,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+27.3,65+,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+40.4,65+,Female,Current smoker (some days),High School Graduate / GED,$10k - $15k,Medicare,More than one,0,1,1,1,1,1,0,0,1,0,0,1
+21.6,55-64,Female,Former smoker,Some College / Tech School,$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+21.7,55-64,Female,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+40.0,35-44,Female,Never smoked,Some College / Tech School,$25k - $35k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+23.5,18-24,Male,Never smoked,Some College / Tech School,Unknown,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+26.6,55-64,Male,Former smoker,Some College / Tech School,$15k - $20k,Medicare,More than one,1,0,0,0,0,1,1,0,1,0,1,1
+22.4,45-54,Male,Former smoker,College Graduate (4+ yrs),$150k - $200k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+24.4,65+,Male,Never smoked,High School Graduate / GED,$35k - $50k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+24.0,55-64,Female,Never smoked,Elementary (Grades 1-8),$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+25.3,65+,Female,Never smoked,High School Graduate / GED,$50k - $75k,Medicare,More than one,0,0,0,0,0,1,0,1,1,0,0,1
+29.5,55-64,Male,Never smoked,High School Graduate / GED,$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+30.4,18-24,Male,Never smoked,Some College / Tech School,Unknown,Medicare,No personal doctor,0,0,0,0,0,1,0,0,0,1,0,0
+26.9,18-24,Male,Never smoked,College Graduate (4+ yrs),$35k - $50k,Private / Self-purchased,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+26.4,18-24,Female,Never smoked,High School Graduate / GED,$35k - $50k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+27.3,65+,Female,Former smoker,High School Graduate / GED,Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,0
+31.9,65+,Male,Unknown,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,1,0,0,1,1,0,0
+31.0,65+,Female,Former smoker,High School Graduate / GED,Unknown,Medicare,More than one,0,0,0,0,0,0,1,0,1,1,0,0
+56.1,55-64,Male,Never smoked,High School Graduate / GED,$25k - $35k,Unknown,Unknown,0,0,0,0,0,0,1,0,1,1,0,1
+31.2,45-54,Male,Former smoker,Some College / Tech School,$20k - $25k,No Coverage,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.4,25-34,Female,Never smoked,Some College / Tech School,$25k - $35k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+22.0,55-64,Female,Never smoked,High School Graduate / GED,Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+21.6,55-64,Male,Never smoked,Some College / Tech School,$50k - $75k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+24.9,65+,Male,Former smoker,College Graduate (4+ yrs),$150k - $200k,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+26.6,65+,Female,Never smoked,College Graduate (4+ yrs),Unknown,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,55-64,Male,Former smoker,Never attended / Kindergarten,$25k - $35k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,1,0,0,0
+30.9,65+,Female,Former smoker,High School Graduate / GED,$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,1
+27.4,65+,Female,Unknown,High School Graduate / GED,Unknown,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+31.8,25-34,Male,Current smoker (some days),Some College / Tech School,$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+23.0,18-24,Male,Never smoked,High School Graduate / GED,$35k - $50k,Employer / Union,No personal doctor,1,0,0,0,0,1,0,0,1,1,1,0
+26.9,65+,Female,Never smoked,Some High School (Grades 9-11),$35k - $50k,Medicare,"Yes, only one",1,1,0,1,1,0,0,0,1,0,0,0
+32.5,18-24,Male,Never smoked,High School Graduate / GED,$15k - $20k,Medicaid,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+27.3,45-54,Male,Former smoker,High School Graduate / GED,$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+27.4,35-44,Male,Unknown,Some College / Tech School,$25k - $35k,Medicaid,More than one,0,1,1,1,0,0,0,0,0,1,0,1
+34.2,18-24,Male,Never smoked,Some College / Tech School,$50k - $75k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+32.0,65+,Female,Former smoker,Some College / Tech School,$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+33.6,65+,Female,Former smoker,Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",1,1,1,1,0,0,0,0,0,0,0,0
+30.0,65+,Female,Former smoker,Some College / Tech School,$20k - $25k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+27.4,45-54,Female,Former smoker,Some College / Tech School,Unknown,State Sponsored,"Yes, only one",0,0,0,0,0,1,0,0,1,1,0,0
+38.5,55-64,Male,Never smoked,Some College / Tech School,$100k - $150k,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+43.8,65+,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,State Sponsored,More than one,1,0,0,0,0,1,1,0,1,1,0,1
+25.1,35-44,Male,Former smoker,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+28.1,55-64,Male,Former smoker,Some College / Tech School,$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+22.6,45-54,Female,Never smoked,College Graduate (4+ yrs),$35k - $50k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,0,1,0
+27.9,55-64,Male,Former smoker,Some High School (Grades 9-11),Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+29.3,25-34,Male,Former smoker,Some High School (Grades 9-11),$50k - $75k,State Sponsored,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+28.5,65+,Male,Never smoked,Some College / Tech School,$35k - $50k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+18.2,65+,Female,Unknown,Some High School (Grades 9-11),$10k - $15k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,0,0,0
+27.4,55-64,Female,Unknown,Some College / Tech School,Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,0
+21.5,18-24,Male,Never smoked,College Graduate (4+ yrs),$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+42.9,65+,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,More than one,0,0,1,1,0,0,0,0,0,1,0,0
+30.5,65+,Male,Former smoker,High School Graduate / GED,Unknown,Medicare,More than one,1,0,0,0,0,0,0,0,0,0,0,0
+30.3,65+,Male,Never smoked,High School Graduate / GED,$20k - $25k,No Coverage,No personal doctor,0,1,0,1,0,0,0,0,0,1,1,0
+27.4,25-34,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Other Government,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.5,65+,Male,Former smoker,Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+20.7,65+,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.1,65+,Male,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+31.2,55-64,Female,Never smoked,High School Graduate / GED,$25k - $35k,No Coverage,"Yes, only one",1,0,0,0,0,0,0,0,1,1,1,1
+38.6,65+,Female,Never smoked,High School Graduate / GED,$35k - $50k,Medicare,More than one,0,0,1,1,0,1,0,0,1,0,0,1
+25.8,65+,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,"Yes, only one",1,0,0,0,0,1,0,0,0,1,0,1
+31.9,25-34,Female,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+31.3,55-64,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+53.2,65+,Female,Former smoker,College Graduate (4+ yrs),$75k - $100k,Medicare,More than one,0,0,0,0,0,1,0,0,1,1,0,0
+25.1,55-64,Male,Current smoker (every day),High School Graduate / GED,$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,1,0,1,1,0,0
+35.4,25-34,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,0
+23.9,65+,Male,Current smoker (some days),Some High School (Grades 9-11),$10k - $15k,Medicare,More than one,1,1,1,1,0,0,1,0,0,1,1,1
+29.8,55-64,Male,Former smoker,College Graduate (4+ yrs),Unknown,Military / VA / TRICARE,"Yes, only one",1,1,0,1,0,0,0,0,1,0,0,1
+28.2,45-54,Female,Former smoker,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+33.0,65+,Male,Never smoked,Some College / Tech School,$75k - $100k,Medicare,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+28.0,45-54,Male,Current smoker (every day),Some College / Tech School,$10k - $15k,Medicaid,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+28.3,35-44,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+33.7,55-64,Female,Former smoker,Some College / Tech School,$50k - $75k,State Sponsored,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.8,65+,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.0,65+,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,1,1,0,0
+27.3,35-44,Male,Never smoked,Some College / Tech School,$35k - $50k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+29.8,65+,Female,Former smoker,Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+24.9,65+,Female,Never smoked,High School Graduate / GED,$75k - $100k,Medicare,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+21.3,65+,Female,Never smoked,College Graduate (4+ yrs),Unknown,Medicare,More than one,0,1,1,1,0,0,0,0,1,1,0,0
+20.6,45-54,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+29.2,45-54,Female,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Female,Never smoked,Some College / Tech School,$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+31.6,65+,Male,Former smoker,College Graduate (4+ yrs),Unknown,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,1,1,0,0
+25.1,25-34,Male,Never smoked,High School Graduate / GED,$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+25.0,18-24,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,1,0
+20.4,45-54,Female,Unknown,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,1,1,1,0,0
+20.4,35-44,Female,Current smoker (every day),High School Graduate / GED,$25k - $35k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+35.7,65+,Male,Former smoker,High School Graduate / GED,$50k - $75k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,0
+42.1,18-24,Female,Never smoked,College Graduate (4+ yrs),$200k+,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+29.4,35-44,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Military / VA / TRICARE,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,55-64,Female,Never smoked,College Graduate (4+ yrs),Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+24.3,35-44,Male,Never smoked,High School Graduate / GED,$50k - $75k,State Sponsored,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+27.4,65+,Female,Never smoked,Some College / Tech School,Unknown,Medicare,More than one,0,0,0,0,0,1,0,0,1,1,0,1
+27.4,45-54,Female,Never smoked,Some College / Tech School,Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+28.2,55-64,Female,Former smoker,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,1,0,0,1,0,0,0
+27.4,65+,Male,Unknown,High School Graduate / GED,Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+31.6,65+,Female,Never smoked,College Graduate (4+ yrs),$200k+,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+24.0,25-34,Male,Current smoker (every day),High School Graduate / GED,$15k - $20k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,1
+40.6,55-64,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,0
+41.2,65+,Female,Never smoked,Some College / Tech School,$10k - $15k,Medicare,"Yes, only one",1,0,0,0,0,0,0,1,1,0,0,1
+21.1,25-34,Male,Current smoker (every day),Some High School (Grades 9-11),< $10k,Medicaid,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,1
+32.1,55-64,Male,Current smoker (every day),Some College / Tech School,$50k - $75k,Private / Self-purchased,More than one,0,1,1,1,0,0,0,0,1,1,0,0
+26.6,55-64,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+35.4,25-34,Female,Former smoker,Some College / Tech School,$25k - $35k,Medicaid,More than one,0,0,0,0,0,0,0,0,1,1,0,1
+28.5,18-24,Male,Never smoked,High School Graduate / GED,$100k - $150k,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.6,25-34,Male,Never smoked,Some High School (Grades 9-11),$20k - $25k,Unknown,No personal doctor,0,0,0,0,0,0,0,0,1,1,1,0
+27.4,45-54,Female,Never smoked,College Graduate (4+ yrs),$25k - $35k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.9,25-34,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+30.0,35-44,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+26.5,18-24,Male,Never smoked,College Graduate (4+ yrs),$25k - $35k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+39.5,65+,Female,Never smoked,Some College / Tech School,$20k - $25k,Unknown,"Yes, only one",1,0,0,0,0,0,0,0,1,0,0,1
+27.4,35-44,Male,Unknown,College Graduate (4+ yrs),Unknown,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+28.3,65+,Female,Former smoker,College Graduate (4+ yrs),$35k - $50k,Medicare,More than one,0,0,0,0,0,0,0,0,0,0,0,1
+18.6,55-64,Male,Never smoked,High School Graduate / GED,Unknown,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,1,0,0,0,0,0
+30.7,55-64,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+31.3,65+,Female,Former smoker,Some College / Tech School,$50k - $75k,Employer / Union,"Yes, only one",1,0,0,0,0,1,0,0,1,0,0,0
+30.3,45-54,Male,Current smoker (some days),Some College / Tech School,$35k - $50k,Other Government,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+27.6,45-54,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+31.1,35-44,Male,Current smoker (some days),Some College / Tech School,$75k - $100k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+26.5,35-44,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+35.7,65+,Female,Former smoker,College Graduate (4+ yrs),$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+22.2,65+,Male,Never smoked,College Graduate (4+ yrs),Unknown,Employer / Union,More than one,1,0,0,0,0,0,0,0,0,0,0,0
+30.9,65+,Female,Current smoker (every day),Some College / Tech School,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.6,65+,Female,Former smoker,College Graduate (4+ yrs),$75k - $100k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+27.5,65+,Male,Never smoked,Some College / Tech School,Unknown,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+24.0,25-34,Female,Never smoked,College Graduate (4+ yrs),$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+30.1,65+,Female,Never smoked,High School Graduate / GED,$35k - $50k,Private / Self-purchased,More than one,0,0,1,1,0,0,0,0,1,1,0,0
+28.9,45-54,Male,Former smoker,College Graduate (4+ yrs),$50k - $75k,State Sponsored,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.5,65+,Female,Never smoked,Some College / Tech School,Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,0
+28.3,55-64,Female,Former smoker,Some College / Tech School,$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,1,1,1,0,1
+26.5,55-64,Male,Never smoked,College Graduate (4+ yrs),$50k - $75k,Other Government,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.9,35-44,Male,Current smoker (every day),High School Graduate / GED,$20k - $25k,State Sponsored,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.7,55-64,Female,Former smoker,Some College / Tech School,$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,25-34,Female,Former smoker,Some High School (Grades 9-11),$35k - $50k,No Coverage,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+31.9,65+,Female,Former smoker,Some College / Tech School,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,1,0,1,0,0,0
+32.7,55-64,Female,Never smoked,College Graduate (4+ yrs),$25k - $35k,Unknown,More than one,1,0,0,0,0,0,0,1,1,1,0,0
+26.2,45-54,Female,Never smoked,High School Graduate / GED,$50k - $75k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+28.6,65+,Male,Never smoked,College Graduate (4+ yrs),$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,0,1,0,1,0,0
+24.0,55-64,Male,Current smoker (every day),High School Graduate / GED,$35k - $50k,Employer / Union,More than one,1,0,0,0,0,0,0,0,1,0,0,0
+40.4,18-24,Female,Never smoked,Some College / Tech School,$25k - $35k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+22.1,18-24,Female,Unknown,Some College / Tech School,$25k - $35k,Other Government,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+25.8,45-54,Male,Current smoker (every day),College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+23.7,45-54,Female,Former smoker,College Graduate (4+ yrs),$75k - $100k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,1,1,0,1
+27.4,65+,Male,Never smoked,College Graduate (4+ yrs),Unknown,Medicare,More than one,1,0,0,0,0,0,0,0,1,1,0,0
+25.8,65+,Male,Former smoker,Elementary (Grades 1-8),Unknown,Military / VA / TRICARE,"Yes, only one",0,1,0,1,0,0,0,0,0,1,0,0
+23.9,65+,Female,Former smoker,College Graduate (4+ yrs),$20k - $25k,Medicare,More than one,1,1,1,1,1,1,1,0,1,0,1,1
+30.1,65+,Female,Former smoker,High School Graduate / GED,Unknown,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+27.4,65+,Female,Unknown,Some College / Tech School,$10k - $15k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Female,Former smoker,College Graduate (4+ yrs),Unknown,Other Government,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+26.7,65+,Male,Former smoker,High School Graduate / GED,$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,1
+23.6,65+,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+23.8,65+,Male,Former smoker,High School Graduate / GED,$25k - $35k,Medicare,No personal doctor,0,0,0,0,0,0,0,1,0,1,0,0
+32.3,55-64,Female,Never smoked,Some College / Tech School,Unknown,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+20.1,65+,Male,Former smoker,Some College / Tech School,$75k - $100k,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,1,0,0,1,1,0,0
+28.3,65+,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Female,Former smoker,Some College / Tech School,Unknown,Medicare,"Yes, only one",1,1,0,1,0,0,0,0,1,1,0,0
+26.5,45-54,Male,Current smoker (every day),Some College / Tech School,$50k - $75k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,1,1,0,0
+24.4,65+,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.4,65+,Female,Never smoked,Some College / Tech School,$75k - $100k,Medicare,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+26.6,65+,Female,Unknown,Some High School (Grades 9-11),Unknown,Medicare,More than one,0,0,0,0,0,1,0,0,0,0,0,0
+20.8,65+,Female,Former smoker,Some High School (Grades 9-11),$15k - $20k,Medicare,"Yes, only one",1,0,0,0,0,0,1,0,1,0,0,0
+18.6,18-24,Female,Never smoked,Some High School (Grades 9-11),$200k+,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Female,Unknown,Some College / Tech School,$10k - $15k,Medicaid,More than one,0,0,0,0,0,0,0,0,1,0,0,0
+27.3,65+,Male,Former smoker,College Graduate (4+ yrs),$75k - $100k,Medicare,More than one,0,0,0,0,0,0,1,0,1,1,0,0
+26.5,55-64,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+27.1,55-64,Male,Former smoker,Some College / Tech School,Unknown,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,1
+29.2,65+,Female,Unknown,High School Graduate / GED,$50k - $75k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,0,0,0
+43.9,55-64,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Employer / Union,More than one,0,0,0,0,0,1,1,0,1,0,0,0
+29.4,35-44,Male,Never smoked,Some College / Tech School,$75k - $100k,Employer / Union,No personal doctor,0,0,0,0,0,1,0,0,0,1,0,1
+20.4,65+,Female,Former smoker,Some College / Tech School,$25k - $35k,Medicare,"Yes, only one",0,1,0,1,1,0,0,0,0,0,0,0
+25.1,65+,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+26.5,65+,Male,Never smoked,College Graduate (4+ yrs),$35k - $50k,Medicare,"Yes, only one",1,1,1,1,1,0,0,0,1,1,0,0
+46.3,45-54,Male,Never smoked,High School Graduate / GED,Unknown,State Sponsored,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,1
+22.0,25-34,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+28.9,25-34,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,0,0,0
+26.2,18-24,Female,Never smoked,Some College / Tech School,$75k - $100k,Other Government,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+24.2,55-64,Female,Never smoked,College Graduate (4+ yrs),$200k+,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+32.0,65+,Female,Former smoker,High School Graduate / GED,Unknown,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,55-64,Female,Never smoked,Some College / Tech School,Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+40.7,35-44,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.0,65+,Female,Current smoker (every day),High School Graduate / GED,Unknown,Medicare,"Yes, only one",0,0,0,0,1,0,0,1,1,1,0,1
+28.3,55-64,Female,Current smoker (every day),Some College / Tech School,$35k - $50k,State Sponsored,"Yes, only one",0,0,0,0,0,0,1,0,0,1,0,0
+27.4,65+,Female,Former smoker,College Graduate (4+ yrs),$35k - $50k,Medicare,More than one,0,0,0,0,0,1,0,1,1,0,0,0
+45.6,55-64,Male,Never smoked,High School Graduate / GED,$15k - $20k,Medicaid,More than one,0,1,1,1,0,0,0,0,1,0,0,0
+22.2,35-44,Male,Current smoker (some days),College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.1,25-34,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+31.0,65+,Female,Never smoked,Some College / Tech School,$20k - $25k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+31.6,65+,Female,Never smoked,Some College / Tech School,Unknown,Medicare,"Yes, only one",1,0,0,0,0,0,1,0,0,0,0,1
+21.9,65+,Female,Never smoked,High School Graduate / GED,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+24.9,65+,Female,Never smoked,College Graduate (4+ yrs),Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+35.6,35-44,Male,Current smoker (every day),High School Graduate / GED,$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+45.4,55-64,Female,Former smoker,High School Graduate / GED,Unknown,Medicare,"Yes, only one",0,1,1,1,0,0,0,0,1,1,0,0
+25.1,65+,Male,Former smoker,High School Graduate / GED,$25k - $35k,Medicare,"Yes, only one",1,1,0,1,1,0,0,0,1,1,0,0
+23.7,65+,Male,Former smoker,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,1,1,0,0,1,0,0
+22.7,55-64,Female,Unknown,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,18-24,Female,Unknown,Unknown,Unknown,Unknown,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+31.6,45-54,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+26.6,65+,Female,Former smoker,High School Graduate / GED,$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+20.5,55-64,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+33.5,55-64,Female,Former smoker,Some College / Tech School,Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,1,1,1,1,0
+28.7,55-64,Male,Unknown,College Graduate (4+ yrs),Unknown,Employer / Union,More than one,1,0,0,0,0,0,0,0,0,1,0,0
+34.2,65+,Male,Former smoker,Some High School (Grades 9-11),Unknown,Medicaid,"Yes, only one",1,1,1,1,1,0,0,0,0,0,1,0
+37.6,65+,Female,Never smoked,College Graduate (4+ yrs),$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+32.3,35-44,Female,Never smoked,Some High School (Grades 9-11),$35k - $50k,State Sponsored,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.6,65+,Male,Former smoker,High School Graduate / GED,$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,1
+23.0,65+,Female,Former smoker,Some High School (Grades 9-11),Unknown,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,0
+19.0,45-54,Female,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.6,55-64,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+41.8,45-54,Male,Never smoked,Some College / Tech School,$75k - $100k,State Sponsored,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+36.6,25-34,Female,Never smoked,Some College / Tech School,$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+31.9,35-44,Female,Former smoker,Some College / Tech School,$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.0,35-44,Female,Never smoked,College Graduate (4+ yrs),Unknown,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,18-24,Female,Never smoked,High School Graduate / GED,Unknown,State Sponsored,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+16.2,55-64,Male,Current smoker (every day),High School Graduate / GED,Unknown,Military / VA / TRICARE,No personal doctor,0,0,0,0,0,1,1,0,1,0,0,0
+24.3,35-44,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+21.0,65+,Female,Former smoker,College Graduate (4+ yrs),$35k - $50k,Medicare,"Yes, only one",1,1,1,1,0,0,0,0,1,1,0,1
+25.8,45-54,Male,Former smoker,Some College / Tech School,Unknown,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,1,1,1,1
+27.5,35-44,Female,Former smoker,College Graduate (4+ yrs),$50k - $75k,Other Government,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+31.5,65+,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,More than one,1,0,1,1,0,1,0,1,1,1,0,0
+32.1,55-64,Male,Former smoker,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+34.3,65+,Female,Former smoker,Some College / Tech School,$50k - $75k,Employer / Union,"Yes, only one",0,1,0,1,1,0,0,0,0,1,0,0
+24.5,65+,Female,Former smoker,College Graduate (4+ yrs),$20k - $25k,Medicare,More than one,0,0,1,1,0,0,0,0,0,1,0,0
+36.2,65+,Male,Unknown,Some College / Tech School,$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+27.4,25-34,Female,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+29.3,65+,Female,Never smoked,High School Graduate / GED,$35k - $50k,Medicare,"Yes, only one",1,0,0,0,1,0,0,0,1,0,0,0
+21.5,65+,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+34.4,65+,Male,Former smoker,High School Graduate / GED,Unknown,Medicare,More than one,1,0,0,0,0,0,0,0,0,0,0,1
+27.6,65+,Male,Former smoker,College Graduate (4+ yrs),$75k - $100k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+30.1,25-34,Female,Never smoked,High School Graduate / GED,Unknown,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+37.3,45-54,Male,Current smoker (every day),Some College / Tech School,$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+26.6,35-44,Female,Never smoked,Some College / Tech School,$50k - $75k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+27.2,45-54,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+22.6,55-64,Female,Former smoker,High School Graduate / GED,$75k - $100k,Other Government,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.7,35-44,Female,Current smoker (every day),High School Graduate / GED,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.8,65+,Female,Former smoker,High School Graduate / GED,$25k - $35k,Medicare,More than one,0,0,0,0,0,1,0,0,1,1,0,0
+23.0,65+,Male,Never smoked,High School Graduate / GED,$25k - $35k,Medicare,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+27.0,18-24,Female,Never smoked,Some College / Tech School,Unknown,Military / VA / TRICARE,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+24.4,65+,Male,Never smoked,High School Graduate / GED,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+27.4,65+,Female,Unknown,College Graduate (4+ yrs),Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+28.1,65+,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Military / VA / TRICARE,"Yes, only one",0,1,0,1,0,0,0,0,0,1,0,0
+22.5,55-64,Female,Former smoker,Some College / Tech School,Unknown,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+24.8,65+,Female,Former smoker,Some High School (Grades 9-11),$15k - $20k,Medicare,"Yes, only one",1,0,0,0,0,0,0,1,0,1,1,1
+43.0,45-54,Female,Unknown,College Graduate (4+ yrs),Unknown,Medicaid,More than one,1,0,0,0,0,1,0,0,1,1,0,1
+28.3,35-44,Female,Former smoker,High School Graduate / GED,$50k - $75k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+22.9,65+,Male,Never smoked,Some High School (Grades 9-11),Unknown,Medicare,More than one,1,0,0,0,0,0,1,0,0,0,0,0
+22.8,35-44,Male,Former smoker,College Graduate (4+ yrs),$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,1
+18.3,35-44,Male,Former smoker,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+27.4,45-54,Female,Never smoked,Elementary (Grades 1-8),$35k - $50k,No Coverage,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,1
+39.0,45-54,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.8,45-54,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+21.9,18-24,Male,Never smoked,Some High School (Grades 9-11),Unknown,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+21.3,45-54,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.0,45-54,Female,Former smoker,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+25.4,65+,Female,Current smoker (every day),Some College / Tech School,$15k - $20k,Unknown,More than one,0,0,0,0,0,0,0,0,1,0,0,0
+24.6,25-34,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+21.6,65+,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+25.1,35-44,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.8,65+,Female,Unknown,High School Graduate / GED,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+23.6,55-64,Female,Never smoked,College Graduate (4+ yrs),Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+35.4,55-64,Female,Former smoker,High School Graduate / GED,$75k - $100k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,1,1,0,0
+32.0,65+,Female,Current smoker (every day),Some High School (Grades 9-11),$10k - $15k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,0,0,1
+31.2,65+,Male,Never smoked,Some College / Tech School,$35k - $50k,Medicaid,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,0
+23.2,35-44,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.3,18-24,Female,Never smoked,Some College / Tech School,$150k - $200k,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.9,65+,Female,Former smoker,Some College / Tech School,$20k - $25k,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+23.7,65+,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+31.1,65+,Female,Former smoker,Some College / Tech School,$50k - $75k,Medicare,More than one,0,0,0,0,0,1,0,0,1,1,0,0
+26.3,65+,Male,Never smoked,Some College / Tech School,$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+31.2,45-54,Male,Former smoker,Some College / Tech School,$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+27.4,35-44,Female,Never smoked,Some College / Tech School,< $10k,Medicaid,"Yes, only one",0,0,0,0,0,1,0,0,0,0,0,1
+35.9,35-44,Female,Former smoker,College Graduate (4+ yrs),$100k - $150k,Military / VA / TRICARE,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+28.7,35-44,Female,Never smoked,High School Graduate / GED,$15k - $20k,State Sponsored,More than one,0,0,0,0,0,1,0,0,1,1,0,1
+28.9,35-44,Male,Current smoker (every day),High School Graduate / GED,$25k - $35k,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.3,55-64,Female,Never smoked,Some College / Tech School,$35k - $50k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+23.0,35-44,Male,Unknown,Some High School (Grades 9-11),$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+37.8,65+,Male,Former smoker,College Graduate (4+ yrs),Unknown,Medicare,More than one,1,0,0,0,0,0,1,0,1,1,0,0
+37.0,65+,Female,Current smoker (every day),High School Graduate / GED,$20k - $25k,Medicare,"Yes, only one",1,0,0,0,0,0,1,0,0,0,0,0
+29.8,65+,Female,Never smoked,College Graduate (4+ yrs),$35k - $50k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,1
+32.6,45-54,Male,Current smoker (every day),High School Graduate / GED,$35k - $50k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+31.1,35-44,Female,Former smoker,Some College / Tech School,$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+36.0,45-54,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Military / VA / TRICARE,More than one,1,0,0,0,0,0,0,0,0,1,1,0
+25.7,45-54,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+28.3,45-54,Female,Never smoked,Some College / Tech School,$25k - $35k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+42.2,45-54,Female,Former smoker,College Graduate (4+ yrs),$50k - $75k,Employer / Union,"Yes, only one",1,0,0,0,0,1,0,0,1,0,1,0
+28.1,65+,Male,Never smoked,Some College / Tech School,Unknown,Medicare,"Yes, only one",0,1,1,1,0,0,0,0,1,1,0,1
+21.5,65+,Male,Current smoker (every day),College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.4,55-64,Male,Former smoker,High School Graduate / GED,$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+22.7,18-24,Male,Never smoked,High School Graduate / GED,$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+29.8,55-64,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+19.0,35-44,Female,Never smoked,Some College / Tech School,$20k - $25k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,1,0
+26.3,65+,Female,Never smoked,High School Graduate / GED,$20k - $25k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+28.3,65+,Female,Never smoked,High School Graduate / GED,$20k - $25k,Medicare,"Yes, only one",0,0,0,0,0,0,0,1,0,0,0,0
+17.8,35-44,Female,Former smoker,College Graduate (4+ yrs),$150k - $200k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+27.7,45-54,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+30.4,65+,Male,Never smoked,Some High School (Grades 9-11),$15k - $20k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.6,65+,Female,Former smoker,Some College / Tech School,$25k - $35k,Medicare,More than one,0,0,0,0,0,1,1,0,1,1,0,0
+36.0,45-54,Female,Current smoker (every day),Some College / Tech School,$15k - $20k,Medicaid,"Yes, only one",0,0,0,0,0,0,1,0,1,1,0,0
+34.6,35-44,Female,Never smoked,Elementary (Grades 1-8),$20k - $25k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+20.3,65+,Female,Never smoked,Some College / Tech School,$35k - $50k,Medicare,"Yes, only one",0,0,1,1,0,0,0,0,1,1,0,0
+29.7,65+,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+26.7,65+,Male,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+29.2,65+,Female,Never smoked,Some College / Tech School,$15k - $20k,Medicare,"Yes, only one",0,0,0,0,0,0,1,0,1,1,0,0
+26.4,65+,Female,Current smoker (every day),Elementary (Grades 1-8),Unknown,Unknown,"Yes, only one",0,0,0,0,0,0,1,0,0,0,0,0
+29.4,65+,Male,Unknown,College Graduate (4+ yrs),$100k - $150k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+24.6,65+,Male,Never smoked,Some College / Tech School,$75k - $100k,Medicare,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+29.0,65+,Female,Never smoked,High School Graduate / GED,$20k - $25k,Medicare,"Yes, only one",1,0,0,0,0,1,1,0,1,1,0,0
+29.9,35-44,Male,Never smoked,Some High School (Grades 9-11),$25k - $35k,No Coverage,No personal doctor,1,0,0,0,0,0,0,0,0,1,1,0
+26.0,65+,Female,Never smoked,College Graduate (4+ yrs),$25k - $35k,Medicare,"Yes, only one",0,0,0,0,0,0,0,1,1,0,0,0
+57.1,55-64,Male,Current smoker (every day),Elementary (Grades 1-8),$10k - $15k,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,1,1,0,0
+36.9,65+,Male,Never smoked,College Graduate (4+ yrs),Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+23.5,65+,Male,Never smoked,Some College / Tech School,Unknown,Medicare,"Yes, only one",0,0,1,1,0,0,0,0,0,1,0,0
+40.2,65+,Male,Former smoker,College Graduate (4+ yrs),$25k - $35k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+36.9,45-54,Male,Current smoker (every day),High School Graduate / GED,< $10k,State Sponsored,More than one,0,0,0,0,0,1,1,0,1,1,1,1
+32.0,18-24,Male,Never smoked,High School Graduate / GED,$50k - $75k,Employer / Union,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+27.1,25-34,Male,Never smoked,Some College / Tech School,$200k+,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.8,18-24,Male,Never smoked,Some College / Tech School,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+28.0,35-44,Male,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Male,Unknown,Elementary (Grades 1-8),Unknown,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,0,1,0
+27.4,45-54,Female,Unknown,High School Graduate / GED,Unknown,Other Government,"Yes, only one",0,0,0,0,0,0,0,0,1,0,1,0
+35.3,18-24,Male,Never smoked,Some College / Tech School,Unknown,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,35-44,Male,Former smoker,College Graduate (4+ yrs),$20k - $25k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.7,25-34,Male,Never smoked,College Graduate (4+ yrs),$25k - $35k,Private / Self-purchased,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+44.8,65+,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,0
+32.3,25-34,Female,Never smoked,High School Graduate / GED,$25k - $35k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.1,55-64,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.5,65+,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+25.8,65+,Male,Former smoker,High School Graduate / GED,Unknown,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,0
+26.6,45-54,Female,Never smoked,Some College / Tech School,$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+23.8,18-24,Female,Current smoker (some days),High School Graduate / GED,$35k - $50k,Medicaid,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+35.4,55-64,Male,Never smoked,Some College / Tech School,$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+34.8,55-64,Male,Former smoker,High School Graduate / GED,$10k - $15k,Other Government,"Yes, only one",1,0,0,0,0,0,0,0,0,0,0,1
+30.9,35-44,Female,Never smoked,Some College / Tech School,Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,1
+28.3,65+,Female,Never smoked,High School Graduate / GED,$50k - $75k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,1,0,0,0
+27.4,35-44,Female,Never smoked,Some College / Tech School,$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+31.2,35-44,Male,Unknown,High School Graduate / GED,$75k - $100k,No Coverage,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+30.4,55-64,Male,Current smoker (some days),Some College / Tech School,Unknown,Military / VA / TRICARE,No personal doctor,1,0,0,0,0,0,0,1,0,0,0,0
+29.5,65+,Male,Former smoker,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,1
+34.4,35-44,Male,Unknown,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+24.9,45-54,Female,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+23.1,65+,Male,Former smoker,Some College / Tech School,$150k - $200k,Medicare,"Yes, only one",0,0,1,1,0,0,0,0,1,1,0,0
+27.4,55-64,Female,Never smoked,High School Graduate / GED,$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,0,0,0
+29.1,65+,Male,Never smoked,Some College / Tech School,$20k - $25k,Military / VA / TRICARE,More than one,0,0,1,1,0,1,0,0,0,1,0,1
+27.3,65+,Male,Never smoked,Some College / Tech School,$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+23.0,65+,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+32.6,35-44,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,1
+24.2,65+,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.0,65+,Male,Former smoker,Some College / Tech School,$20k - $25k,Medicare,No personal doctor,0,0,0,0,0,0,0,0,0,1,1,0
+32.1,65+,Male,Never smoked,Elementary (Grades 1-8),$15k - $20k,Medicare,More than one,1,1,1,1,0,0,0,0,1,1,0,0
+28.2,55-64,Female,Former smoker,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+27.4,35-44,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+22.0,65+,Female,Former smoker,Some College / Tech School,$50k - $75k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+21.6,35-44,Female,Former smoker,Some College / Tech School,$150k - $200k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+43.0,65+,Male,Former smoker,Some College / Tech School,$75k - $100k,Medicare,More than one,0,1,1,1,0,0,0,0,1,1,0,0
+24.3,18-24,Male,Never smoked,High School Graduate / GED,Unknown,Employer / Union,No personal doctor,0,0,0,0,0,1,0,0,0,1,0,0
+27.4,35-44,Female,Unknown,Some High School (Grades 9-11),Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+24.5,18-24,Female,Never smoked,High School Graduate / GED,$25k - $35k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,1
+41.8,18-24,Male,Never smoked,Some College / Tech School,$75k - $100k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+26.6,25-34,Male,Never smoked,Some College / Tech School,$50k - $75k,Employer / Union,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+24.4,55-64,Male,Current smoker (some days),College Graduate (4+ yrs),$75k - $100k,Medicare,More than one,0,0,0,0,0,0,1,0,1,1,0,0
+27.4,35-44,Male,Never smoked,Some College / Tech School,$50k - $75k,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,1,0,0,1
+15.7,65+,Male,Former smoker,High School Graduate / GED,Unknown,Unknown,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,1
+46.0,35-44,Male,Never smoked,Some College / Tech School,$75k - $100k,No Coverage,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.9,45-54,Male,Former smoker,High School Graduate / GED,$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.7,65+,Male,Former smoker,College Graduate (4+ yrs),$100k - $150k,Medicare,"Yes, only one",0,0,1,1,0,0,0,0,1,1,0,0
+17.6,35-44,Female,Never smoked,High School Graduate / GED,Unknown,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,55-64,Male,Unknown,Unknown,Unknown,Unknown,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,1
+28.8,55-64,Male,Current smoker (some days),Some College / Tech School,$15k - $20k,Medicare,More than one,1,1,1,1,1,0,0,1,1,1,1,1
+29.1,65+,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",1,0,0,0,0,1,0,0,1,1,0,0
+23.7,55-64,Male,Former smoker,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.3,18-24,Male,Never smoked,Some College / Tech School,$35k - $50k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Female,Never smoked,Some College / Tech School,Unknown,Medicare,More than one,1,0,0,0,0,0,0,0,1,1,0,0
+27.4,65+,Female,Never smoked,High School Graduate / GED,$50k - $75k,Unknown,"Yes, only one",1,0,0,0,0,0,0,0,1,0,0,0
+31.2,65+,Male,Never smoked,High School Graduate / GED,$50k - $75k,Medicaid,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+21.4,55-64,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,35-44,Female,Unknown,College Graduate (4+ yrs),$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+34.2,65+,Female,Never smoked,College Graduate (4+ yrs),$35k - $50k,Medicare,More than one,1,0,0,0,0,0,0,0,1,0,0,0
+21.4,55-64,Male,Never smoked,High School Graduate / GED,Unknown,Medicare,More than one,1,0,0,0,0,0,0,1,1,1,0,1
+25.0,45-54,Female,Current smoker (every day),Some College / Tech School,$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,0,1,1
+27.6,35-44,Female,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+29.0,45-54,Male,Former smoker,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,1
+18.2,18-24,Male,Never smoked,Some High School (Grades 9-11),$75k - $100k,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.3,45-54,Male,Former smoker,Some College / Tech School,$100k - $150k,No Coverage,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.8,65+,Female,Former smoker,High School Graduate / GED,$35k - $50k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+27.4,65+,Male,Unknown,High School Graduate / GED,Unknown,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+24.4,25-34,Male,Never smoked,College Graduate (4+ yrs),Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,35-44,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+23.2,55-64,Female,Former smoker,High School Graduate / GED,$50k - $75k,No Coverage,"Yes, only one",0,0,0,0,0,0,0,0,1,1,1,0
+42.8,65+,Male,Never smoked,Some College / Tech School,Unknown,Military / VA / TRICARE,More than one,1,0,0,0,0,1,0,0,0,0,0,1
+26.6,35-44,Female,Former smoker,Some College / Tech School,$10k - $15k,State Sponsored,"Yes, only one",0,0,0,0,0,1,0,0,1,1,0,1
+24.4,25-34,Male,Former smoker,High School Graduate / GED,$75k - $100k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+32.6,55-64,Male,Never smoked,High School Graduate / GED,$25k - $35k,Medicare,"Yes, only one",0,1,0,1,0,0,0,0,1,1,0,1
+27.6,45-54,Female,Current smoker (some days),High School Graduate / GED,$25k - $35k,Other Government,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+22.7,65+,Female,Former smoker,High School Graduate / GED,$25k - $35k,Medicare,Unknown,0,0,0,0,0,0,1,0,0,1,0,0
+26.3,65+,Male,Former smoker,Some College / Tech School,$75k - $100k,Medicare,More than one,1,0,0,0,0,0,1,0,0,0,0,1
+27.3,55-64,Male,Never smoked,Some College / Tech School,$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+28.1,55-64,Male,Never smoked,High School Graduate / GED,Unknown,Medicaid,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+31.8,65+,Male,Unknown,Some High School (Grades 9-11),$25k - $35k,Indian Health Service,More than one,0,1,0,1,0,1,1,0,1,0,0,1
+22.0,65+,Female,Former smoker,High School Graduate / GED,Unknown,Other Government,More than one,0,0,0,0,0,0,0,0,0,1,0,1
+27.3,55-64,Male,Never smoked,High School Graduate / GED,$150k - $200k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.3,65+,Female,Never smoked,Some College / Tech School,$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Male,Never smoked,Some College / Tech School,Unknown,Medicare,More than one,0,1,0,1,0,0,0,0,0,1,0,0
+22.7,65+,Female,Never smoked,Elementary (Grades 1-8),< $10k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+30.8,55-64,Male,Never smoked,College Graduate (4+ yrs),Unknown,Unknown,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+14.4,65+,Male,Never smoked,College Graduate (4+ yrs),$35k - $50k,Unknown,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+45.7,35-44,Female,Unknown,High School Graduate / GED,Unknown,Medicaid,"Yes, only one",1,0,0,0,0,1,0,0,1,0,0,1
+32.1,65+,Female,Current smoker (every day),High School Graduate / GED,$50k - $75k,Employer / Union,More than one,1,0,0,0,0,0,1,0,0,1,0,0
+30.5,65+,Female,Never smoked,High School Graduate / GED,$25k - $35k,Private / Self-purchased,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+27.4,55-64,Female,Unknown,College Graduate (4+ yrs),$200k+,Other Government,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+22.4,65+,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+42.1,35-44,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+19.8,35-44,Male,Former smoker,High School Graduate / GED,$75k - $100k,Medicaid,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+38.9,55-64,Female,Unknown,Some College / Tech School,Unknown,Employer / Union,More than one,1,0,0,0,0,0,0,0,1,0,0,0
+23.6,65+,Male,Former smoker,Some College / Tech School,$75k - $100k,Medicaid,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Male,Current smoker (some days),College Graduate (4+ yrs),$50k - $75k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+20.6,55-64,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,1,1,1,1,1,0,0
+39.0,45-54,Male,Former smoker,Some High School (Grades 9-11),$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+25.8,65+,Male,Former smoker,High School Graduate / GED,$75k - $100k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,0
+28.0,65+,Female,Never smoked,High School Graduate / GED,$15k - $20k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+24.6,65+,Female,Never smoked,High School Graduate / GED,$150k - $200k,Medicare,More than one,0,0,0,0,0,1,1,0,0,1,0,0
+26.4,65+,Male,Former smoker,Some College / Tech School,$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+20.6,55-64,Male,Current smoker (every day),High School Graduate / GED,$50k - $75k,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+24.4,18-24,Male,Never smoked,High School Graduate / GED,$35k - $50k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.6,45-54,Male,Never smoked,Some High School (Grades 9-11),$35k - $50k,Private / Self-purchased,"Yes, only one",1,0,0,0,0,0,0,0,0,1,1,0
+40.4,65+,Female,Unknown,College Graduate (4+ yrs),$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.1,55-64,Male,Current smoker (some days),High School Graduate / GED,< $10k,State Sponsored,No personal doctor,0,0,0,0,0,0,0,0,1,0,0,0
+30.4,65+,Male,Former smoker,College Graduate (4+ yrs),$50k - $75k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Female,Never smoked,High School Graduate / GED,Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.7,65+,Female,Never smoked,Elementary (Grades 1-8),Unknown,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+21.9,55-64,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+29.3,25-34,Female,Never smoked,High School Graduate / GED,Unknown,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,0,1,0
+30.1,65+,Female,Never smoked,High School Graduate / GED,$20k - $25k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+24.2,18-24,Female,Never smoked,High School Graduate / GED,Unknown,Private / Self-purchased,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+30.8,55-64,Male,Never smoked,High School Graduate / GED,$50k - $75k,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+26.4,55-64,Male,Former smoker,Some College / Tech School,$75k - $100k,Employer / Union,More than one,1,0,0,0,0,0,0,0,1,0,0,1
+23.5,45-54,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Female,Current smoker (every day),High School Graduate / GED,Unknown,Other Government,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+34.3,65+,Female,Never smoked,High School Graduate / GED,$35k - $50k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,1,0,0,1
+61.4,45-54,Female,Former smoker,Some College / Tech School,$75k - $100k,Employer / Union,"Yes, only one",1,0,0,0,0,1,0,0,1,1,0,0
+26.4,25-34,Male,Never smoked,Some High School (Grades 9-11),$50k - $75k,Other Government,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,45-54,Male,Unknown,High School Graduate / GED,Unknown,Medicaid,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+27.4,55-64,Female,Unknown,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+33.9,65+,Male,Former smoker,High School Graduate / GED,$35k - $50k,Medicare,"Yes, only one",1,0,0,0,0,0,0,0,0,0,0,0
+28.7,18-24,Male,Never smoked,Some College / Tech School,Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+22.3,55-64,Female,Unknown,College Graduate (4+ yrs),$75k - $100k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+35.2,55-64,Male,Never smoked,High School Graduate / GED,Unknown,No Coverage,"Yes, only one",1,0,0,0,0,0,0,0,1,1,1,0
+22.6,65+,Male,Former smoker,High School Graduate / GED,$35k - $50k,Medicare,More than one,1,0,0,0,1,0,0,0,0,0,0,1
+23.6,35-44,Female,Former smoker,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+29.3,65+,Female,Never smoked,Some College / Tech School,$100k - $150k,Medicare,More than one,0,0,1,1,0,0,0,0,1,0,0,1
+23.1,35-44,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+35.9,45-54,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,1,0,0,0,0,0,0,0,0,1,0,0
+23.0,55-64,Male,Never smoked,High School Graduate / GED,$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.1,18-24,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+31.9,55-64,Male,Former smoker,Some College / Tech School,$35k - $50k,Employer / Union,More than one,1,0,0,0,0,0,0,0,1,1,0,0
+17.7,35-44,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+26.5,35-44,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,0,0,0,0
+28.7,18-24,Male,Never smoked,Some College / Tech School,$25k - $35k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+21.1,45-54,Female,Former smoker,College Graduate (4+ yrs),$200k+,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+49.2,35-44,Female,Never smoked,Some College / Tech School,< $10k,Medicaid,More than one,1,0,0,0,0,1,1,0,1,0,1,1
+28.7,65+,Male,Never smoked,Some College / Tech School,$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+38.4,35-44,Male,Never smoked,Some College / Tech School,$75k - $100k,Unknown,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.3,45-54,Female,Former smoker,College Graduate (4+ yrs),$35k - $50k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,1,1,1,0
+42.6,35-44,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Employer / Union,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,0
+35.4,65+,Female,Former smoker,High School Graduate / GED,Unknown,Medicare,"Yes, only one",0,0,1,1,0,0,0,0,1,1,0,0
+22.7,35-44,Female,Never smoked,Some College / Tech School,$150k - $200k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+29.0,25-34,Male,Never smoked,Some College / Tech School,$25k - $35k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+29.3,55-64,Male,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+30.0,18-24,Female,Never smoked,Some College / Tech School,Unknown,State Sponsored,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+24.4,65+,Male,Never smoked,Some College / Tech School,$50k - $75k,Unknown,More than one,0,0,0,0,0,0,0,0,1,0,0,0
+30.7,65+,Male,Former smoker,Some College / Tech School,$25k - $35k,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,1
+23.6,65+,Female,Unknown,Some College / Tech School,$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+31.5,65+,Female,Never smoked,College Graduate (4+ yrs),$200k+,Medicare,More than one,0,0,0,0,0,1,0,0,1,1,0,0
+27.4,45-54,Female,Never smoked,Elementary (Grades 1-8),Unknown,Unknown,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,0
+49.2,55-64,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,"Yes, only one",1,0,0,0,0,1,0,0,1,1,0,0
+25.1,65+,Male,Former smoker,High School Graduate / GED,$50k - $75k,Military / VA / TRICARE,More than one,0,0,0,0,0,0,1,0,1,1,0,0
+22.3,55-64,Male,Former smoker,Some College / Tech School,$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+27.1,55-64,Male,Former smoker,Some College / Tech School,$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+37.9,65+,Male,Former smoker,High School Graduate / GED,Unknown,Employer / Union,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+25.8,65+,Female,Never smoked,Some College / Tech School,$35k - $50k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+25.1,65+,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,More than one,0,1,1,1,0,0,0,1,0,0,0,0
+22.5,65+,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,1,0,0,1,1,0,0
+23.0,45-54,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+23.2,55-64,Female,Former smoker,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+28.1,55-64,Female,Never smoked,College Graduate (4+ yrs),$200k+,Employer / Union,"Yes, only one",0,0,0,0,0,0,1,0,0,1,0,0
+26.1,65+,Female,Unknown,Some High School (Grades 9-11),Unknown,Medicare,More than one,0,0,0,0,1,0,0,0,1,1,0,0
+25.1,45-54,Male,Former smoker,College Graduate (4+ yrs),$75k - $100k,Military / VA / TRICARE,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+33.0,65+,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+31.2,18-24,Male,Never smoked,Some College / Tech School,$25k - $35k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,1,0,0,0,1,0,0
+33.9,45-54,Male,Former smoker,College Graduate (4+ yrs),$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+19.0,65+,Female,Never smoked,High School Graduate / GED,Unknown,Medicaid,No personal doctor,0,0,0,0,0,0,0,1,0,1,0,0
+28.2,65+,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+27.4,65+,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,More than one,0,0,0,0,1,0,0,0,1,1,1,1
+31.4,25-34,Male,Never smoked,College Graduate (4+ yrs),$100k - $150k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Male,Former smoker,College Graduate (4+ yrs),$75k - $100k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+28.2,55-64,Male,Former smoker,Some College / Tech School,$75k - $100k,Private / Self-purchased,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+38.5,25-34,Female,Never smoked,High School Graduate / GED,Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,1,0,0,0,1,1,0
+34.3,45-54,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,0,0,0
+25.1,65+,Male,Former smoker,College Graduate (4+ yrs),Unknown,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+32.5,65+,Male,Former smoker,Some College / Tech School,$20k - $25k,Medicare,"Yes, only one",0,0,1,1,0,0,1,1,1,1,0,0
+35.4,18-24,Male,Never smoked,High School Graduate / GED,$35k - $50k,State Sponsored,No personal doctor,0,0,0,0,0,1,0,0,0,1,0,0
+23.3,65+,Female,Never smoked,Some College / Tech School,$50k - $75k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+31.9,45-54,Male,Former smoker,Some College / Tech School,$100k - $150k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+31.3,65+,Female,Former smoker,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+29.2,45-54,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+24.9,65+,Female,Former smoker,College Graduate (4+ yrs),$100k - $150k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+16.4,65+,Female,Former smoker,High School Graduate / GED,$50k - $75k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,1,0,0,1
+33.8,35-44,Male,Never smoked,High School Graduate / GED,$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,1,0,0,1,0,1
+46.6,55-64,Female,Former smoker,High School Graduate / GED,$10k - $15k,Medicaid,"Yes, only one",1,0,0,0,0,0,1,0,1,0,0,1
+25.7,35-44,Female,Never smoked,College Graduate (4+ yrs),Unknown,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+33.7,55-64,Male,Never smoked,High School Graduate / GED,$50k - $75k,Employer / Union,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,0
+36.5,55-64,Male,Never smoked,High School Graduate / GED,$75k - $100k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,1,1,0,0
+38.7,65+,Male,Never smoked,College Graduate (4+ yrs),$35k - $50k,Employer / Union,"Yes, only one",1,0,0,0,0,0,0,0,1,1,0,0
+31.8,45-54,Male,Current smoker (some days),College Graduate (4+ yrs),Unknown,Military / VA / TRICARE,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+28.3,45-54,Male,Never smoked,Some College / Tech School,$50k - $75k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+29.5,25-34,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+25.1,25-34,Male,Never smoked,College Graduate (4+ yrs),Unknown,Employer / Union,More than one,0,0,0,0,0,1,0,0,0,1,0,0
+20.7,65+,Male,Never smoked,College Graduate (4+ yrs),$75k - $100k,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+36.8,55-64,Male,Never smoked,Some College / Tech School,$25k - $35k,State Sponsored,"Yes, only one",0,0,0,0,0,0,0,0,0,1,1,0
+23.2,18-24,Female,Never smoked,High School Graduate / GED,Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,1
+22.4,25-34,Female,Never smoked,College Graduate (4+ yrs),$10k - $15k,Medicaid,"Yes, only one",0,0,1,1,0,0,0,0,0,1,0,1
+22.9,35-44,Male,Current smoker (every day),High School Graduate / GED,$50k - $75k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+27.4,55-64,Female,Never smoked,College Graduate (4+ yrs),Unknown,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,0,0,0
+27.4,35-44,Female,Never smoked,College Graduate (4+ yrs),$50k - $75k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+27.4,65+,Female,Never smoked,Some College / Tech School,Unknown,Medicare,More than one,0,0,0,0,0,0,0,0,1,0,0,1
+27.4,65+,Female,Current smoker (some days),High School Graduate / GED,Unknown,Medicare,More than one,1,0,0,0,0,0,0,0,1,1,0,0
+43.8,35-44,Female,Never smoked,Some College / Tech School,$50k - $75k,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,1
+39.1,65+,Female,Former smoker,College Graduate (4+ yrs),Unknown,Medicare,"Yes, only one",0,0,0,0,0,0,0,1,1,0,0,0
+19.9,35-44,Female,Never smoked,College Graduate (4+ yrs),$200k+,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+29.8,55-64,Male,Former smoker,Some College / Tech School,$150k - $200k,Employer / Union,No personal doctor,0,0,0,0,0,1,0,0,0,0,0,0
+27.4,18-24,Female,Unknown,High School Graduate / GED,Unknown,Medicaid,Unknown,0,0,0,0,0,1,0,0,0,1,1,0
+18.2,65+,Female,Former smoker,College Graduate (4+ yrs),$20k - $25k,Private / Self-purchased,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+33.4,25-34,Male,Never smoked,High School Graduate / GED,Unknown,Unknown,No personal doctor,0,0,0,0,0,0,0,0,0,0,0,0
+27.4,65+,Female,Unknown,High School Graduate / GED,Unknown,Medicare,More than one,0,0,1,1,0,0,0,0,1,0,0,0
+21.3,35-44,Female,Never smoked,Some College / Tech School,Unknown,No Coverage,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+32.4,35-44,Female,Never smoked,College Graduate (4+ yrs),$75k - $100k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+35.9,25-34,Female,Never smoked,College Graduate (4+ yrs),$150k - $200k,Employer / Union,More than one,0,0,0,0,0,1,0,0,1,1,0,0
+26.2,65+,Male,Never smoked,Some College / Tech School,Unknown,Medicare,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
+27.5,25-34,Female,Never smoked,Some College / Tech School,$10k - $15k,Medicaid,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+26.6,65+,Male,Unknown,College Graduate (4+ yrs),Unknown,Medicare,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+32.3,65+,Female,Former smoker,Some College / Tech School,$200k+,Medicare,More than one,0,0,0,0,0,0,0,0,1,0,0,0
+25.8,65+,Male,Never smoked,College Graduate (4+ yrs),$50k - $75k,Medicare,More than one,0,0,0,0,0,0,0,0,0,1,0,0
+19.7,55-64,Female,Never smoked,College Graduate (4+ yrs),$100k - $150k,Employer / Union,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+37.7,55-64,Male,Never smoked,Some College / Tech School,$100k - $150k,Employer / Union,"Yes, only one",1,0,0,0,0,0,0,0,0,1,0,0
+23.3,55-64,Female,Former smoker,Some College / Tech School,$150k - $200k,Employer / Union,More than one,0,0,0,0,0,0,0,0,1,1,0,0
+22.9,18-24,Male,Never smoked,Some College / Tech School,$50k - $75k,Private / Self-purchased,"Yes, only one",0,0,0,0,0,0,0,0,0,1,0,0
+35.8,65+,Female,Never smoked,College Graduate (4+ yrs),$25k - $35k,Medicare,More than one,1,0,0,0,0,0,0,0,1,1,0,0
+40.9,25-34,Male,Never smoked,High School Graduate / GED,$35k - $50k,Medicaid,No personal doctor,0,0,0,0,0,0,0,0,0,1,0,0
