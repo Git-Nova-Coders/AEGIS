@@ -1,0 +1,342 @@
+{
+  "validation_metrics": [
+    {
+      "model_name": "Logistic Regression",
+      "roc_auc": 0.7915,
+      "pr_auc": 0.4323,
+      "brier_score": 0.1816,
+      "accuracy": 0.7428,
+      "precision": 0.3167,
+      "recall": 0.6908,
+      "f1_score": 0.4343,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          43148,
+          14269
+        ],
+        [
+          2960,
+          6614
+        ]
+      ]
+    },
+    {
+      "model_name": "Random Forest",
+      "roc_auc": 0.7915,
+      "pr_auc": 0.4314,
+      "brier_score": 0.1799,
+      "accuracy": 0.7478,
+      "precision": 0.3204,
+      "recall": 0.6821,
+      "f1_score": 0.436,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          43567,
+          13850
+        ],
+        [
+          3044,
+          6530
+        ]
+      ]
+    },
+    {
+      "model_name": "LightGBM",
+      "roc_auc": 0.7965,
+      "pr_auc": 0.4422,
+      "brier_score": 0.1791,
+      "accuracy": 0.7403,
+      "precision": 0.3163,
+      "recall": 0.7033,
+      "f1_score": 0.4363,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          42862,
+          14555
+        ],
+        [
+          2841,
+          6733
+        ]
+      ]
+    },
+    {
+      "model_name": "XGBoost",
+      "roc_auc": 0.7963,
+      "pr_auc": 0.4418,
+      "brier_score": 0.1787,
+      "accuracy": 0.7438,
+      "precision": 0.3188,
+      "recall": 0.6978,
+      "f1_score": 0.4377,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          43144,
+          14273
+        ],
+        [
+          2893,
+          6681
+        ]
+      ]
+    },
+    {
+      "model_name": "XGBoost (Calibrated Isotonic)",
+      "roc_auc": 0.7946,
+      "pr_auc": 0.4271,
+      "brier_score": 0.1005,
+      "accuracy": 0.8668,
+      "precision": 0.6073,
+      "recall": 0.1922,
+      "f1_score": 0.292,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          56227,
+          1190
+        ],
+        [
+          7734,
+          1840
+        ]
+      ]
+    },
+    {
+      "model_name": "XGBoost (Calibrated Sigmoid)",
+      "roc_auc": 0.7949,
+      "pr_auc": 0.4365,
+      "brier_score": 0.1008,
+      "accuracy": 0.8671,
+      "precision": 0.6135,
+      "recall": 0.1895,
+      "f1_score": 0.2895,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          56274,
+          1143
+        ],
+        [
+          7760,
+          1814
+        ]
+      ]
+    },
+    {
+      "model_name": "LightGBM (Calibrated Isotonic)",
+      "roc_auc": 0.7948,
+      "pr_auc": 0.4288,
+      "brier_score": 0.1005,
+      "accuracy": 0.8675,
+      "precision": 0.6106,
+      "recall": 0.2004,
+      "f1_score": 0.3018,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          56193,
+          1224
+        ],
+        [
+          7655,
+          1919
+        ]
+      ]
+    },
+    {
+      "model_name": "LightGBM (Calibrated Sigmoid)",
+      "roc_auc": 0.7952,
+      "pr_auc": 0.4378,
+      "brier_score": 0.1004,
+      "accuracy": 0.8671,
+      "precision": 0.6106,
+      "recall": 0.1934,
+      "f1_score": 0.2938,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          56236,
+          1181
+        ],
+        [
+          7722,
+          1852
+        ]
+      ]
+    }
+  ],
+  "test_metrics": [
+    {
+      "model_name": "Logistic Regression",
+      "roc_auc": 0.7901,
+      "pr_auc": 0.4275,
+      "brier_score": 0.183,
+      "accuracy": 0.7413,
+      "precision": 0.3157,
+      "recall": 0.6939,
+      "f1_score": 0.434,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          43018,
+          14399
+        ],
+        [
+          2931,
+          6643
+        ]
+      ]
+    },
+    {
+      "model_name": "Random Forest",
+      "roc_auc": 0.79,
+      "pr_auc": 0.4247,
+      "brier_score": 0.1809,
+      "accuracy": 0.7463,
+      "precision": 0.3192,
+      "recall": 0.6842,
+      "f1_score": 0.4353,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          43443,
+          13974
+        ],
+        [
+          3023,
+          6551
+        ]
+      ]
+    },
+    {
+      "model_name": "LightGBM",
+      "roc_auc": 0.7952,
+      "pr_auc": 0.4378,
+      "brier_score": 0.1804,
+      "accuracy": 0.7399,
+      "precision": 0.3164,
+      "recall": 0.7068,
+      "f1_score": 0.4372,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          42799,
+          14618
+        ],
+        [
+          2807,
+          6767
+        ]
+      ]
+    },
+    {
+      "model_name": "XGBoost",
+      "roc_auc": 0.7949,
+      "pr_auc": 0.4365,
+      "brier_score": 0.1801,
+      "accuracy": 0.743,
+      "precision": 0.3185,
+      "recall": 0.7004,
+      "f1_score": 0.4379,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          43066,
+          14351
+        ],
+        [
+          2868,
+          6706
+        ]
+      ]
+    },
+    {
+      "model_name": "XGBoost (Calibrated Isotonic)",
+      "roc_auc": 0.7946,
+      "pr_auc": 0.4271,
+      "brier_score": 0.1005,
+      "accuracy": 0.8668,
+      "precision": 0.6073,
+      "recall": 0.1922,
+      "f1_score": 0.292,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          56227,
+          1190
+        ],
+        [
+          7734,
+          1840
+        ]
+      ]
+    },
+    {
+      "model_name": "XGBoost (Calibrated Sigmoid)",
+      "roc_auc": 0.7949,
+      "pr_auc": 0.4365,
+      "brier_score": 0.1008,
+      "accuracy": 0.8671,
+      "precision": 0.6135,
+      "recall": 0.1895,
+      "f1_score": 0.2895,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          56274,
+          1143
+        ],
+        [
+          7760,
+          1814
+        ]
+      ]
+    },
+    {
+      "model_name": "LightGBM (Calibrated Isotonic)",
+      "roc_auc": 0.7948,
+      "pr_auc": 0.4288,
+      "brier_score": 0.1005,
+      "accuracy": 0.8675,
+      "precision": 0.6106,
+      "recall": 0.2004,
+      "f1_score": 0.3018,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          56193,
+          1224
+        ],
+        [
+          7655,
+          1919
+        ]
+      ]
+    },
+    {
+      "model_name": "LightGBM (Calibrated Sigmoid)",
+      "roc_auc": 0.7952,
+      "pr_auc": 0.4378,
+      "brier_score": 0.1004,
+      "accuracy": 0.8671,
+      "precision": 0.6106,
+      "recall": 0.1934,
+      "f1_score": 0.2938,
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          56236,
+          1181
+        ],
+        [
+          7722,
+          1852
+        ]
+      ]
+    }
+  ]
+}
