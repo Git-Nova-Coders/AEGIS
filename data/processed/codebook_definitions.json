@@ -1,0 +1,1008 @@
+{
+  "SEXVAR": {
+    "variable_name": "SEXVAR",
+    "label": "",
+    "question": "Sex of Respondent",
+    "header_raw": "Label: Sex of RespondentSection Name: Respondent SexSection Number: 0Question Number: 1Column: 88Type of Variable: NumSAS Variable Name: SEXVARQuestion Prologue:Question: Sex of Respondent",
+    "values": [
+      {
+        "value": "1",
+        "label": "Male\ufffdCode=1 if LANDSEX3=1 or CELLSEX3=1",
+        "frequency": "217,487",
+        "percentage": "47.52"
+      },
+      {
+        "value": "2",
+        "label": "Female\ufffdCode=2 if LANDSEX3=2 or CELLSEX3=2",
+        "frequency": "240,183",
+        "percentage": "52.48"
+      }
+    ]
+  },
+  "GENHLTH": {
+    "variable_name": "GENHLTH",
+    "label": "General Health",
+    "question": "Would you say that in general your health is:",
+    "header_raw": "Label: General HealthSection Name: Health StatusCore Section Number: 1Question Number: 1Column: 101Type of Variable: NumSAS Variable Name: GENHLTHQuestion Prologue:Question: Would you say that in general your health is:",
+    "values": [
+      {
+        "value": "1",
+        "label": "Excellent",
+        "frequency": "64,217",
+        "percentage": "14.03"
+      },
+      {
+        "value": "2",
+        "label": "Very good",
+        "frequency": "145,791",
+        "percentage": "31.86"
+      },
+      {
+        "value": "3",
+        "label": "Good",
+        "frequency": "156,229",
+        "percentage": "34.14"
+      },
+      {
+        "value": "4",
+        "label": "Fair",
+        "frequency": "67,919",
+        "percentage": "14.84"
+      },
+      {
+        "value": "5",
+        "label": "Poor",
+        "frequency": "22,204",
+        "percentage": "4.85"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know/Not Sure",
+        "frequency": "915",
+        "percentage": "0.20"
+      },
+      {
+        "value": "9",
+        "label": "Refused",
+        "frequency": "390",
+        "percentage": "0.09"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "5",
+        "percentage": "."
+      }
+    ]
+  },
+  "PHYSHLTH": {
+    "variable_name": "PHYSHLTH",
+    "label": "Number of Days Physical Health Not Good",
+    "question": "Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good?",
+    "header_raw": "Label: Number of Days Physical Health Not GoodSection Name: Healthy DaysCore Section Number: 2Question Number: 1Column: 102-103Type of Variable: NumSAS Variable Name: PHYSHLTHQuestion Prologue:Question: Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good?",
+    "values": [
+      {
+        "value": "1 - 30",
+        "label": "Number of days",
+        "frequency": "179,027",
+        "percentage": "39.12"
+      },
+      {
+        "value": "88",
+        "label": "None",
+        "frequency": "267,576",
+        "percentage": "58.47"
+      },
+      {
+        "value": "77",
+        "label": "Don\ufffdt know/Not sure",
+        "frequency": "8,765",
+        "percentage": "1.92"
+      },
+      {
+        "value": "99",
+        "label": "Refused",
+        "frequency": "2,297",
+        "percentage": "0.50"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "5",
+        "percentage": "."
+      }
+    ]
+  },
+  "POORHLTH": {
+    "variable_name": "POORHLTH",
+    "label": "Poor Physical or Mental Health",
+    "question": "During the past 30 days, for about how many days did poor physical or mental health keep you from doing your usual activities, such as self-care, work, or recreation?",
+    "header_raw": "Label: Poor Physical or Mental HealthSection Name: Healthy DaysCore Section Number: 2Question Number: 3Column: 106-107Type of Variable: NumSAS Variable Name: POORHLTHQuestion Prologue:Question: During the past 30 days, for about how many days did poor physical or mental health keep you from doing your usual activities, such as self-care, work, or recreation?",
+    "values": [
+      {
+        "value": "1 - 30",
+        "label": "Number of daysNotes: _ _ Number of days",
+        "frequency": "126,098",
+        "percentage": "47.01"
+      },
+      {
+        "value": "88",
+        "label": "None",
+        "frequency": "136,544",
+        "percentage": "50.90"
+      },
+      {
+        "value": "77",
+        "label": "Don\ufffdt know/Not sure",
+        "frequency": "4,219",
+        "percentage": "1.57"
+      },
+      {
+        "value": "99",
+        "label": "Refused",
+        "frequency": "1,388",
+        "percentage": "0.52"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or MissingNotes: Section 02.01, PHYSHLTH, is 88 and Section 2.02, MENTHLTH, is 88",
+        "frequency": "189,421",
+        "percentage": "."
+      }
+    ]
+  },
+  "PRIMINS2": {
+    "variable_name": "PRIMINS2",
+    "label": "",
+    "question": "What is the current primary source of your health care coverage?",
+    "header_raw": "Label: What is Your Current Primary Source of Health Care Coverage?Section Name: Health Care AccessCore Section Number: 3Question Number: 1Column: 108-109Type of Variable: NumSAS Variable Name: PRIMINS2Question Prologue:Question: What is the current primary source of your health care coverage?",
+    "values": [
+      {
+        "value": "1",
+        "label": "A plan purchased through an employer or union (including plans purchased through another person\ufffds employer)",
+        "frequency": "155,360",
+        "percentage": "33.95"
+      },
+      {
+        "value": "2",
+        "label": "A private nongovernmental plan that you or another family member buys on your own",
+        "frequency": "38,611",
+        "percentage": "8.44"
+      },
+      {
+        "value": "3",
+        "label": "Medicare",
+        "frequency": "145,567",
+        "percentage": "31.81"
+      },
+      {
+        "value": "4",
+        "label": "Medigap",
+        "frequency": "386",
+        "percentage": "0.08"
+      },
+      {
+        "value": "5",
+        "label": "Medicaid",
+        "frequency": "32,847",
+        "percentage": "7.18"
+      },
+      {
+        "value": "6",
+        "label": "Children\ufffds Health Insurance Program (CHIP)",
+        "frequency": "144",
+        "percentage": "0.03"
+      },
+      {
+        "value": "7",
+        "label": "Military related health care: TRICARE (CHAMPUS) / VA health care / CHAMP- VA",
+        "frequency": "16,939",
+        "percentage": "3.70"
+      },
+      {
+        "value": "8",
+        "label": "Indian Health Service",
+        "frequency": "1,409",
+        "percentage": "0.31"
+      },
+      {
+        "value": "9",
+        "label": "State sponsored health plan",
+        "frequency": "12,329",
+        "percentage": "2.69"
+      },
+      {
+        "value": "10",
+        "label": "Other government program",
+        "frequency": "10,128",
+        "percentage": "2.21"
+      },
+      {
+        "value": "88",
+        "label": "No coverage of any type",
+        "frequency": "25,406",
+        "percentage": "5.55"
+      },
+      {
+        "value": "77",
+        "label": "Don\ufffdt know/Not Sure",
+        "frequency": "12,524",
+        "percentage": "2.74"
+      },
+      {
+        "value": "99",
+        "label": "Refused",
+        "frequency": "6,017",
+        "percentage": "1.31"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "3",
+        "percentage": "."
+      }
+    ]
+  },
+  "PERSDOC3": {
+    "variable_name": "PERSDOC3",
+    "label": "Have Personal Health Care Provider?",
+    "question": "Do you have one person or a group of doctors that you think of as your personal health care provider?",
+    "header_raw": "Label: Have Personal Health Care Provider?Section Name: Health Care AccessCore Section Number: 3Question Number: 2Column: 110Type of Variable: NumSAS Variable Name: PERSDOC3Question Prologue:Question: Do you have one person or a group of doctors that you think of as your personal health care provider?",
+    "values": [
+      {
+        "value": "1",
+        "label": "Yes, only one",
+        "frequency": "242,393",
+        "percentage": "52.96"
+      },
+      {
+        "value": "2",
+        "label": "More than one",
+        "frequency": "154,558",
+        "percentage": "33.77"
+      },
+      {
+        "value": "3",
+        "label": "No",
+        "frequency": "56,106",
+        "percentage": "12.26"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know/Not Sure",
+        "frequency": "3,446",
+        "percentage": "0.75"
+      },
+      {
+        "value": "9",
+        "label": "Refused",
+        "frequency": "1,164",
+        "percentage": "0.25"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "3",
+        "percentage": "."
+      }
+    ]
+  },
+  "MEDCOST1": {
+    "variable_name": "MEDCOST1",
+    "label": "",
+    "question": "Was there a time in the past 12 months when you needed to see a doctor but could not because you could not afford it?",
+    "header_raw": "Label: Could Not Afford To See DoctorSection Name: Health Care AccessCore Section Number: 3Question Number: 3Column: 111Type of Variable: NumSAS Variable Name: MEDCOST1Question Prologue:Question: Was there a time in the past 12 months when you needed to see a doctor but could not because you could not afford it?",
+    "values": [
+      {
+        "value": "1",
+        "label": "Yes",
+        "frequency": "43,363",
+        "percentage": "9.47"
+      },
+      {
+        "value": "2",
+        "label": "No",
+        "frequency": "412,634",
+        "percentage": "90.16"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know/Not sure",
+        "frequency": "1,229",
+        "percentage": "0.27"
+      },
+      {
+        "value": "9",
+        "label": "Refused",
+        "frequency": "438",
+        "percentage": "0.10"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "6",
+        "percentage": "."
+      }
+    ]
+  },
+  "EXERANY2": {
+    "variable_name": "EXERANY2",
+    "label": "Exercise in Past 30 Days",
+    "question": "During the past month, other than your regular job, did you participate in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise?",
+    "header_raw": "Label: Exercise in Past 30 DaysSection Name: Exercise (Physical Activity)Core Section Number: 4Question Number: 1Column: 113Type of Variable: NumSAS Variable Name: EXERANY2Question Prologue:Question: During the past month, other than your regular job, did you participate in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise?",
+    "values": [
+      {
+        "value": "1",
+        "label": "Yes",
+        "frequency": "350,061",
+        "percentage": "76.49"
+      },
+      {
+        "value": "2",
+        "label": "No",
+        "frequency": "106,294",
+        "percentage": "23.23"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know/Not Sure",
+        "frequency": "860",
+        "percentage": "0.19"
+      },
+      {
+        "value": "9",
+        "label": "Refused",
+        "frequency": "452",
+        "percentage": "0.10"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "3",
+        "percentage": "."
+      }
+    ]
+  },
+  "CVDINFR4": {
+    "variable_name": "CVDINFR4",
+    "label": "Ever Diagnosed with Heart Attack",
+    "question": "(Ever told) you had a heart attack, also called a myocardial infarction?",
+    "header_raw": "Label: Ever Diagnosed with Heart AttackSection Name: Chronic Health ConditionsCore Section Number: 6Question Number: 1Column: 138Type of Variable: NumSAS Variable Name: CVDINFR4Question Prologue:Question: (Ever told) you had a heart attack, also called a myocardial infarction?",
+    "values": [
+      {
+        "value": "1",
+        "label": "Yes",
+        "frequency": "26,672",
+        "percentage": "5.83"
+      },
+      {
+        "value": "2",
+        "label": "No",
+        "frequency": "427,883",
+        "percentage": "93.49"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know/Not sure",
+        "frequency": "2,857",
+        "percentage": "0.62"
+      },
+      {
+        "value": "9",
+        "label": "Refused",
+        "frequency": "256",
+        "percentage": "0.06"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "2",
+        "percentage": "."
+      }
+    ]
+  },
+  "CVDCRHD4": {
+    "variable_name": "CVDCRHD4",
+    "label": "Ever Diagnosed with Angina or Coronary Heart Disease",
+    "question": "(Ever told) (you had) angina or coronary heart disease?",
+    "header_raw": "Label: Ever Diagnosed with Angina or Coronary Heart DiseaseSection Name: Chronic Health ConditionsCore Section Number: 6Question Number: 2Column: 139Type of Variable: NumSAS Variable Name: CVDCRHD4Question Prologue:Question: (Ever told) (you had) angina or coronary heart disease?",
+    "values": [
+      {
+        "value": "1",
+        "label": "Yes",
+        "frequency": "28,511",
+        "percentage": "6.23"
+      },
+      {
+        "value": "2",
+        "label": "No",
+        "frequency": "424,581",
+        "percentage": "92.77"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know/Not sure",
+        "frequency": "4,297",
+        "percentage": "0.94"
+      },
+      {
+        "value": "9",
+        "label": "Refused",
+        "frequency": "278",
+        "percentage": "0.06"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "3",
+        "percentage": "."
+      }
+    ]
+  },
+  "CVDSTRK3": {
+    "variable_name": "CVDSTRK3",
+    "label": "",
+    "question": "(Ever told) (you had) a stroke.",
+    "header_raw": "Label: Ever Diagnosed with a StrokeSection Name: Chronic Health ConditionsCore Section Number: 6Question Number: 3Column: 140Type of Variable: NumSAS Variable Name: CVDSTRK3Question Prologue:Question: (Ever told) (you had) a stroke.",
+    "values": [
+      {
+        "value": "1",
+        "label": "Yes",
+        "frequency": "20,661",
+        "percentage": "4.51"
+      },
+      {
+        "value": "2",
+        "label": "No",
+        "frequency": "435,557",
+        "percentage": "95.17"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know/Not sure",
+        "frequency": "1,244",
+        "percentage": "0.27"
+      },
+      {
+        "value": "9",
+        "label": "Refused",
+        "frequency": "205",
+        "percentage": "0.04"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "3",
+        "percentage": "."
+      }
+    ]
+  },
+  "ASTHMA3": {
+    "variable_name": "ASTHMA3",
+    "label": "Ever Told Had Asthma",
+    "question": "(Ever told) (you had) asthma?",
+    "header_raw": "Label: Ever Told Had AsthmaSection Name: Chronic Health ConditionsCore Section Number: 6Question Number: 4Column: 141Type of Variable: NumSAS Variable Name: ASTHMA3Question Prologue:Question: (Ever told) (you had) asthma?",
+    "values": [
+      {
+        "value": "1",
+        "label": "Yes",
+        "frequency": "72,037",
+        "percentage": "15.74"
+      },
+      {
+        "value": "2",
+        "label": "No\ufffdGo to Section 06.06 CHCSCNC1",
+        "frequency": "383,772",
+        "percentage": "83.85"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know/Not Sure\ufffdGo to Section 06.06 CHCSCNC1",
+        "frequency": "1,650",
+        "percentage": "0.36"
+      },
+      {
+        "value": "9",
+        "label": "Refused\ufffdGo to Section 06.06 CHCSCNC1",
+        "frequency": "208",
+        "percentage": "0.05"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "3",
+        "percentage": "."
+      }
+    ]
+  },
+  "CHCCOPD3": {
+    "variable_name": "CHCCOPD3",
+    "label": "Ever told you had C.O.P.D. emphysema or chronic bronchitis?",
+    "question": "(Ever told) (you had) C.O.P.D. (chronic obstructive pulmonary disease), emphysema or chronic bronchitis?",
+    "header_raw": "Label: Ever told you had C.O.P.D. emphysema or chronic bronchitis?Section Name: Chronic Health ConditionsCore Section Number: 6Question Number: 8Column: 145Type of Variable: NumSAS Variable Name: CHCCOPD3Question Prologue:Question: (Ever told) (you had) C.O.P.D. (chronic obstructive pulmonary disease), emphysema or chronic bronchitis?",
+    "values": [
+      {
+        "value": "1",
+        "label": "Yes",
+        "frequency": "36,921",
+        "percentage": "8.07"
+      },
+      {
+        "value": "2",
+        "label": "No",
+        "frequency": "418,575",
+        "percentage": "91.46"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know / Not sure",
+        "frequency": "1,921",
+        "percentage": "0.42"
+      },
+      {
+        "value": "9",
+        "label": "Refused",
+        "frequency": "246",
+        "percentage": "0.05"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "7",
+        "percentage": "."
+      }
+    ]
+  },
+  "CHCKDNY2": {
+    "variable_name": "CHCKDNY2",
+    "label": "Ever told you have kidney disease?",
+    "question": "Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?",
+    "header_raw": "Label: Ever told you have kidney disease?Section Name: Chronic Health ConditionsCore Section Number: 6Question Number: 10Column: 147Type of Variable: NumSAS Variable Name: CHCKDNY2Question Prologue:Question: Not including kidney stones, bladder infection or incontinence, were you ever told you had kidney disease?",
+    "values": [
+      {
+        "value": "1",
+        "label": "Yes",
+        "frequency": "23,752",
+        "percentage": "5.19"
+      },
+      {
+        "value": "2",
+        "label": "No",
+        "frequency": "431,939",
+        "percentage": "94.38"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know / Not sure",
+        "frequency": "1,715",
+        "percentage": "0.37"
+      },
+      {
+        "value": "9",
+        "label": "Refused",
+        "frequency": "258",
+        "percentage": "0.06"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "6",
+        "percentage": "."
+      }
+    ]
+  },
+  "HAVARTH4": {
+    "variable_name": "HAVARTH4",
+    "label": "Told Had Arthritis",
+    "question": "(Ever told) (you had) some form of arthritis, rheumatoid arthritis, gout, lupus, or fibromyalgia? (Arthritis diagnoses include: rheumatism, polymyalgia rheumatic, osteoarthritis (not osteoporosis), tendonitis, bursitis, bunion, tennis elbow, carpal tunnel syndrome, tarsal tunnel syndrome, joint infection, Reiter\ufffds syndrome, ankylosing spondylitis;)",
+    "header_raw": "Label: Told Had ArthritisSection Name: Chronic Health ConditionsCore Section Number: 6Question Number: 11Column: 148Type of Variable: NumSAS Variable Name: HAVARTH4Question Prologue:Question: (Ever told) (you had) some form of arthritis, rheumatoid arthritis, gout, lupus, or fibromyalgia? (Arthritis diagnoses include: rheumatism, polymyalgia rheumatic, osteoarthritis (not osteoporosis), tendonitis, bursitis, bunion, tennis elbow, carpal tunnel syndrome, tarsal tunnel syndrome, joint infection, Reiter\ufffds syndrome, ankylosing spondylitis;)",
+    "values": [
+      {
+        "value": "1",
+        "label": "Yes",
+        "frequency": "158,319",
+        "percentage": "34.59"
+      },
+      {
+        "value": "2",
+        "label": "No",
+        "frequency": "296,778",
+        "percentage": "64.85"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know/Not Sure",
+        "frequency": "2,273",
+        "percentage": "0.50"
+      },
+      {
+        "value": "9",
+        "label": "Refused",
+        "frequency": "295",
+        "percentage": "0.06"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "5",
+        "percentage": "."
+      }
+    ]
+  },
+  "DIABETE4": {
+    "variable_name": "DIABETE4",
+    "label": "(Ever told) you had diabetes",
+    "question": "(Ever told) (you had) diabetes? (If \ufffdYes\ufffd and respondent is female, ask \ufffdWas this only when you were pregnant?\ufffd. If Respondent says pre-diabetes or borderline diabetes, use response code 4.)",
+    "header_raw": "Label: (Ever told) you had diabetesSection Name: Chronic Health ConditionsCore Section Number: 6Question Number: 12Column: 149Type of Variable: NumSAS Variable Name: DIABETE4Question Prologue:Question: (Ever told) (you had) diabetes? (If \ufffdYes\ufffd and respondent is female, ask \ufffdWas this only when you were pregnant?\ufffd. If Respondent says pre-diabetes or borderline diabetes, use response code 4.)",
+    "values": [
+      {
+        "value": "1",
+        "label": "Yes",
+        "frequency": "65,809",
+        "percentage": "14.38"
+      },
+      {
+        "value": "2",
+        "label": "Yes, but female told only during pregnancy\ufffdGo to Section 07.01 AGE",
+        "frequency": "3,395",
+        "percentage": "0.74"
+      },
+      {
+        "value": "3",
+        "label": "No\ufffdGo to Section 07.01 AGE",
+        "frequency": "376,125",
+        "percentage": "82.18"
+      },
+      {
+        "value": "4",
+        "label": "No, pre-diabetes or borderline diabetes\ufffdGo to Section 07.01 AGE",
+        "frequency": "11,307",
+        "percentage": "2.47"
+      },
+      {
+        "value": "7",
+        "label": "Don\ufffdt know/Not Sure\ufffdGo to Section 07.01 AGE",
+        "frequency": "798",
+        "percentage": "0.17"
+      },
+      {
+        "value": "9",
+        "label": "Refused\ufffdGo to Section 07.01 AGE",
+        "frequency": "232",
+        "percentage": "0.05"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "4",
+        "percentage": "."
+      }
+    ]
+  },
+  "EDUCA": {
+    "variable_name": "EDUCA",
+    "label": "Education Level",
+    "question": "What is the highest grade or year of school you completed?",
+    "header_raw": "Label: Education LevelSection Name: DemographicsCore Section Number: 7Question Number: 5Column: 187Type of Variable: NumSAS Variable Name: EDUCAQuestion Prologue:Question: What is the highest grade or year of school you completed?",
+    "values": [
+      {
+        "value": "1",
+        "label": "Never attended school or only kindergarten",
+        "frequency": "723",
+        "percentage": "0.16"
+      },
+      {
+        "value": "2",
+        "label": "Grades 1 through 8 (Elementary)",
+        "frequency": "9,226",
+        "percentage": "2.02"
+      },
+      {
+        "value": "3",
+        "label": "Grades 9 through 11 (Some high school)",
+        "frequency": "17,200",
+        "percentage": "3.76"
+      },
+      {
+        "value": "4",
+        "label": "Grade 12 or GED (High school graduate)",
+        "frequency": "115,877",
+        "percentage": "25.32"
+      },
+      {
+        "value": "5",
+        "label": "College 1 year to 3 years (Some college or technical school)",
+        "frequency": "120,732",
+        "percentage": "26.38"
+      },
+      {
+        "value": "6",
+        "label": "College 4 years or more (College graduate)",
+        "frequency": "191,549",
+        "percentage": "41.85"
+      },
+      {
+        "value": "9",
+        "label": "Refused",
+        "frequency": "2,356",
+        "percentage": "0.51"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "7",
+        "percentage": "."
+      }
+    ]
+  },
+  "INCOME3": {
+    "variable_name": "INCOME3",
+    "label": "Income Level",
+    "question": "Is your annual household income from all sources: (If respondent refuses at any income level, code \ufffdRefused.\ufffd)",
+    "header_raw": "Label: Income LevelSection Name: DemographicsCore Section Number: 7Question Number: 15Column: 204-205Type of Variable: NumSAS Variable Name: INCOME3Question Prologue:Question: Is your annual household income from all sources: (If respondent refuses at any income level, code \ufffdRefused.\ufffd)",
+    "values": [
+      {
+        "value": "1",
+        "label": "Less than $10,000",
+        "frequency": "10,258",
+        "percentage": "2.29"
+      },
+      {
+        "value": "2",
+        "label": "Less than $15,000 ($10,000 to < $15,000)",
+        "frequency": "10,542",
+        "percentage": "2.35"
+      },
+      {
+        "value": "3",
+        "label": "Less than $20,000 ($15,000 to < $20,000)",
+        "frequency": "13,662",
+        "percentage": "3.05"
+      },
+      {
+        "value": "4",
+        "label": "Less than $25,000 ($20,000 to < $25,000)",
+        "frequency": "19,841",
+        "percentage": "4.42"
+      },
+      {
+        "value": "5",
+        "label": "Less than $35,000 ($25,000 to < $35,000)",
+        "frequency": "41,702",
+        "percentage": "9.30"
+      },
+      {
+        "value": "6",
+        "label": "Less than $50,000 ($35,000 to < $50,000)",
+        "frequency": "49,686",
+        "percentage": "11.08"
+      },
+      {
+        "value": "7",
+        "label": "Less than $75,000 ($50,000 to < $75,000)",
+        "frequency": "60,709",
+        "percentage": "13.54"
+      },
+      {
+        "value": "8",
+        "label": "Less than $100,000 ($75,000 to < $100,000)",
+        "frequency": "51,700",
+        "percentage": "11.53"
+      },
+      {
+        "value": "9",
+        "label": "Less than $150,000 ($100,000 to < $150,000)",
+        "frequency": "55,778",
+        "percentage": "12.44"
+      },
+      {
+        "value": "10",
+        "label": "Less than $200,000 ($150,000 to < $200,000)",
+        "frequency": "26,675",
+        "percentage": "5.95"
+      },
+      {
+        "value": "11",
+        "label": "$200,000 or more",
+        "frequency": "29,694",
+        "percentage": "6.62"
+      },
+      {
+        "value": "77",
+        "label": "Don\ufffdt know/Not sure",
+        "frequency": "37,113",
+        "percentage": "8.28"
+      },
+      {
+        "value": "99",
+        "label": "Refused",
+        "frequency": "41,041",
+        "percentage": "9.15"
+      },
+      {
+        "value": "BLANK",
+        "label": "Not asked or Missing",
+        "frequency": "9,269",
+        "percentage": "."
+      }
+    ]
+  },
+  "_RFHLTH": {
+    "variable_name": "_RFHLTH",
+    "label": "Adults with good or better health",
+    "question": "Adults with good or better health",
+    "header_raw": "Label: Adults with good or better healthSection Name: Calculated VariablesModule Number: 1Question Number: 1Column: 1897Type of Variable: NumSAS Variable Name: _RFHLTHQuestion Prologue:Question: Adults with good or better health",
+    "values": [
+      {
+        "value": "1",
+        "label": "Good or Better HealthNotes: GENHLTH = 1 or 2 or 3",
+        "frequency": "366,237",
+        "percentage": "80.02"
+      },
+      {
+        "value": "2",
+        "label": "Fair or Poor HealthNotes: GENHLTH = 4 or 5",
+        "frequency": "90,123",
+        "percentage": "19.69"
+      },
+      {
+        "value": "9",
+        "label": "Don\ufffdt know/Not Sure Or Refused/MissingNotes: GENHLTH = 7 or 9 or Missing",
+        "frequency": "1,310",
+        "percentage": "0.29"
+      }
+    ]
+  },
+  "_PHYS14D": {
+    "variable_name": "_PHYS14D",
+    "label": "",
+    "question": "3 level not good physical health status: 0 days, 1-13 days, 14-30 days",
+    "header_raw": "Label: Computed Physical Health StatusSection Name: Calculated VariablesModule Number: 2Question Number: 1Column: 1898Type of Variable: NumSAS Variable Name: _PHYS14DQuestion Prologue:Question: 3 level not good physical health status: 0 days, 1-13 days, 14-30 days",
+    "values": [
+      {
+        "value": "1",
+        "label": "Zero days when physical health not good",
+        "frequency": "267,576",
+        "percentage": "58.46"
+      },
+      {
+        "value": "2",
+        "label": "1-13 days when physical health not good",
+        "frequency": "115,200",
+        "percentage": "25.17"
+      },
+      {
+        "value": "3",
+        "label": "14+ days when physical health not good",
+        "frequency": "63,827",
+        "percentage": "13.95"
+      },
+      {
+        "value": "9",
+        "label": "Don\ufffdt know/Refused/Missing",
+        "frequency": "11,067",
+        "percentage": "2.42"
+      }
+    ]
+  },
+  "_AGE_G": {
+    "variable_name": "_AGE_G",
+    "label": "Imputed age in six groups",
+    "question": "Six-level imputed age category",
+    "header_raw": "Label: Imputed age in six groupsSection Name: Calculated VariablesModule Number: 7Question Number: 14Column: 1982Type of Variable: NumSAS Variable Name: _AGE_GQuestion Prologue:Question: Six-level imputed age category",
+    "values": [
+      {
+        "value": "1",
+        "label": "Age 18 to 24Notes: 18 <= _IMPAGE <= 24",
+        "frequency": "29,694",
+        "percentage": "6.49"
+      },
+      {
+        "value": "2",
+        "label": "Age 25 to 34Notes: 25 <= _IMPAGE <= 34",
+        "frequency": "49,994",
+        "percentage": "10.92"
+      },
+      {
+        "value": "3",
+        "label": "Age 35 to 44Notes: 35 <= _IMPAGE <= 44",
+        "frequency": "60,418",
+        "percentage": "13.20"
+      },
+      {
+        "value": "4",
+        "label": "Age 45 to 54Notes: 45 <= _IMPAGE <= 54",
+        "frequency": "64,458",
+        "percentage": "14.08"
+      },
+      {
+        "value": "5",
+        "label": "Age 55 to 64Notes: 55 <= _IMPAGE <= 64",
+        "frequency": "80,280",
+        "percentage": "17.54"
+      },
+      {
+        "value": "6",
+        "label": "Age 65 or olderNotes: _IMPAGE => 65",
+        "frequency": "172,826",
+        "percentage": "37.76"
+      }
+    ]
+  },
+  "_BMI5": {
+    "variable_name": "_BMI5",
+    "label": "Computed body mass index categories",
+    "question": "Four-categories of Body Mass Index (BMI)",
+    "header_raw": "Label: Computed body mass index categoriesSection Name: Calculated VariablesModule Number: 7Question Number: 19Column: 1998Type of Variable: NumSAS Variable Name: _BMI5CATQuestion Prologue:Question: Four-categories of Body Mass Index (BMI)",
+    "values": [
+      {
+        "value": "1",
+        "label": "UnderweightNotes: _BMI5 < 1850 (_BMI5 has 2 implied decimal places)",
+        "frequency": "7,377",
+        "percentage": "1.78"
+      },
+      {
+        "value": "2",
+        "label": "Normal WeightNotes: 1850 <= _BMI5 < 2500",
+        "frequency": "121,053",
+        "percentage": "29.20"
+      },
+      {
+        "value": "3",
+        "label": "OverweightNotes: 2500 <= _BMI5 < 3000",
+        "frequency": "146,563",
+        "percentage": "35.35"
+      },
+      {
+        "value": "4",
+        "label": "ObeseNotes: 3000 <= _BMI5 < 9999",
+        "frequency": "139,640",
+        "percentage": "33.68"
+      },
+      {
+        "value": "BLANK",
+        "label": "Don\ufffdt know/Refused/MissingNotes: _BMI5 = 9999",
+        "frequency": "43,037",
+        "percentage": "."
+      }
+    ]
+  },
+  "_SMOKER3": {
+    "variable_name": "_SMOKER3",
+    "label": "",
+    "question": "Four-level smoker status: Everyday smoker, Someday smoker, Former smoker, Non-smoker",
+    "header_raw": "Label: Computed Smoking StatusSection Name: Calculated VariablesModule Number: 11Question Number: 1Column: 2019Type of Variable: NumSAS Variable Name: _SMOKER3Question Prologue:Question: Four-level smoker status: Everyday smoker, Someday smoker, Former smoker, Non-smoker",
+    "values": [
+      {
+        "value": "1",
+        "label": "Current smoker - now smokes every dayNotes: SMOKE100 = 1 and SMOKEDAY = 1",
+        "frequency": "33,118",
+        "percentage": "7.24"
+      },
+      {
+        "value": "2",
+        "label": "Current smoker - now smokes some daysNotes: SMOKE100 = 1 and SMOKEDAY = 2",
+        "frequency": "13,976",
+        "percentage": "3.05"
+      },
+      {
+        "value": "3",
+        "label": "Former smokerNotes: SMOKE100 = 1 and SMOKEDAY = 3",
+        "frequency": "119,598",
+        "percentage": "26.13"
+      },
+      {
+        "value": "4",
+        "label": "Never smokedNotes: SMOKE100 = 2",
+        "frequency": "258,956",
+        "percentage": "56.58"
+      },
+      {
+        "value": "9",
+        "label": "Don\ufffdt know/Refused/MissingNotes: SMOKE100 = 1 and SMOKEDAY = 9 or SMOKE100 = 7 or 9 or Missing",
+        "frequency": "32,022",
+        "percentage": "7.00"
+      }
+    ]
+  }
+}
